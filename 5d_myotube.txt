@@ -1,0 +1,3 @@
+Input_files/Myf6_5d.nodup_peaks.gff,/project/6006657/babde007/ncbi/public/bam/4d_myotH3K27ac.bam,/project/6006657/babde007/ncbi/public/bam/Input_MT_5d.bam
+Input_files/Mef2Da2_5d_peaks.gff,/project/6006657/babde007/ncbi/public/bam/4d_myotH3K27ac.bam,/project/6006657/babde007/ncbi/public/bam/Input_MT_5d.bam
+Input_files/Tead4mt_peaks.gff,/project/6006657/babde007/ncbi/public/bam/4d_myotH3K27ac.bam,/project/6006657/babde007/ncbi/public/bam/Input_MT_5d.bam

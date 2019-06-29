@@ -1,0 +1,5 @@
+Input_files/Pbx1mb_peaks.gff,Input_files/myobH3K27ac.bam,/project/6006657/babde007/ncbi/public/bam/Input_MB.bam
+/project/6006657/babde007/ncbi/public/bed/MyoD_MB_peaks.gff,Input_files/myobH3K27ac.bam,/project/6006657/babde007/ncbi/public/bam/Input_MB.bam
+Input_files/Snai1_GM.nodup_peaks.gff,Input_files/myobH3K27ac.bam,/project/6006657/babde007/ncbi/public/bam/Input_MB.bam
+/project/6006657/babde007/ncbi/public/bed/TAP_Pax7_MB_peaks.gff,Input_files/myobH3K27ac.bam,/project/6006657/babde007/ncbi/public/bam/Input_MB.bam
+/project/6006657/babde007/ncbi/public/bed/TAP_Pax3_MB_peaks.gff,Input_files/myobH3K27ac.bam,/project/6006657/babde007/ncbi/public/bam/Input_MB.bam
