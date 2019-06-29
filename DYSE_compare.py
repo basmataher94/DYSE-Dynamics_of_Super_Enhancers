@@ -23,10 +23,10 @@ def remodelling(stage, histone, ht_dir):
             rep.append(rep_file)
             act.append(act_file)
 
-            command1 = 'bash -c \"bedtools intersect -a ./'+stage[i]+' -b ./'+histone[j]+' -wo > ./'+rep_file + '\"'
-            subprocess.call(command1, shell=True, cwd='/project/6006657/babde007/DYSE/')
-            command2 = 'bash -c \"bedtools intersect -a ./'+stage[j]+' -b ./'+histone[i]+' -wo > ./'+act_file + '\"'
-            subprocess.call(command2, shell=True, cwd='/project/6006657/babde007/DYSE/')
+            command1 = 'bash -c \"bedtools intersect -a '+stage[i]+' -b '+histone[j]+' -wo > '+rep_file + '\"'
+            subprocess.call(command1, shell=True)
+            command2 = 'bash -c \"bedtools intersect -a '+stage[j]+' -b '+histone[i]+' -wo > '+act_file + '\"'
+            subprocess.call(command2, shell=True)
 
     return [rep, act]
 
