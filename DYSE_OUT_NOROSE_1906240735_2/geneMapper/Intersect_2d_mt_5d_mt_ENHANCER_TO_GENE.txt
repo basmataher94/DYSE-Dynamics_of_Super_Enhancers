@@ -1,0 +1,643 @@
+CHROM	START	END	REGION_ID	OVERLAP_GENES	PROXIMAL_GENES	CLOSEST_GENE	enhancerRank
+chr17	70720728	70755940	9_MyoD_2d_MT_peak_7166_lociStitched, 5_Pbx1mt_peak_7459_lociStitched	Dlgap1		Tgif1	1, 1
+chr17	7620199	7664506	7_Pbx1mt_peak_7087_lociStitched, 10_MyoD_2d_MT_peak_6683_lociStitched			Fndc1	2, 3
+chr8	126819427	126859956	25_Myog_60hr_MT_peak_39754_lociStitched, 6_MyoD_2d_MT_peak_14696_lociStitched			Tomm20	2, 5
+chr16	92928346	92979865	17_Myog_60hr_MT_peak_16810_lociStitched, 8_MyoD_2d_MT_peak_6557_lociStitched			Runx1	3, 10
+chr6	129215386	129242258	6_Pbx1mt_peak_14298_lociStitched	2310001H17Rik	Clec2d,2310001H17Rik,Cd69	2310001H17Rik	3
+chr12	86796031	86834632	16_Myog_60hr_MT_peak_9527_lociStitched, 8_MyoD_2d_MT_peak_3688_lociStitched			Irf2bpl	4, 6
+chr13	63106752	63112865	10_Pbx1mt_peak_3917_lociStitched, 3_MyoD_2d_MT_peak_4369_lociStitched	2010111I01Rik		2010111I01Rik	4, 133
+chr19	9053174	9080175	9_Myog_60hr_MT_peak_20752_lociStitched, 6_MyoD_2d_MT_peak_7939_lociStitched	Ahnak	Scgb1a1	Scgb1a1	8, 7
+chr15	62314655	62344029	10_Pbx1mt_peak_6000_lociStitched			H2afy3	9
+chr1	72944244	72989461	8_Pbx1mt_peak_506_lociStitched, 15_Myog_60hr_MT_peak_682_lociStitched		1700027A15Rik,Tnp1	Tnp1	10, 35
+chr1	72944244	72989461	8_Pbx1mt_peak_506_lociStitched, 15_Myog_60hr_MT_peak_682_lociStitched		1700027A15Rik,Tnp1	Tnp1	10, 35
+chr16	30490853	30518321	12_Myog_60hr_MT_peak_16233_lociStitched, 3_MyoD_2d_MT_peak_6290_lociStitched	Mir1195,Tmem44		Tmem44	10, 246
+chr15	58976647	59007080	17_Myog_60hr_MT_peak_13996_lociStitched, 5_MyoD_2d_MT_peak_5613_lociStitched	Mtss1	Ndufb9,Tatdn1	Ndufb9	11, 8
+chr10	45299115	45312001	4_MyoD_2d_MT_peak_1517_lociStitched, 3_Pbx1mt_peak_1922_lociStitched	Popdc3	Bves	Popdc3	12, 49
+chr8	111693253	111771878	22_Myog_60hr_MT_peak_39000_lociStitched	Bcar1,Cfdp1	Zfp1,Ctrb1	Bcar1	14
+chr12	104966423	105005810	10_MyoD_2d_MT_peak_3801_lociStitched, 12_Myog_60hr_MT_peak_9796_lociStitched	Syne3	Glrx5,Snhg10,Mir3069,Scarna13	Syne3	15, 47
+chr12	104966423	105005810	10_MyoD_2d_MT_peak_3801_lociStitched, 12_Myog_60hr_MT_peak_9796_lociStitched	Syne3	Glrx5,Snhg10,Mir3069,Scarna13	Syne3	15, 47
+chr3	41172724	41195330	6_Myog_60hr_MT_peak_25312_lociStitched, 5_MyoD_2d_MT_peak_9659_lociStitched			Pgrmc2	15, 9
+chr3	144664896	144680114	4_MyoD_2d_MT_peak_10307_lociStitched, 4_Myog_60hr_MT_peak_26789_lociStitched		Sh3glb1	Sh3glb1	16, 45
+chr15	55119422	55139661	3_Pbx1mt_peak_5781_lociStitched	Deptor	Taf2,Gm9920,Dscc1	Deptor	17
+chr17	26567883	26585191	10_Myog_60hr_MT_peak_17627_lociStitched, 3_MyoD_2d_MT_peak_6857_lociStitched	Ergic1		Ergic1	17, 276
+chr15	38447295	38453116	11_Myog_60hr_MT_peak_13761_lociStitched, 2_MyoD_2d_MT_peak_5490_lociStitched			Azin1	18, 610
+chr10	118979295	119001728	7_Myog_60hr_MT_peak_4786_lociStitched, 2_MyoD_2d_MT_peak_2039_lociStitched			1700064J06Rik	20, 26
+chr11	86568637	86580620	3_MyoD_2d_MT_peak_2727_lociStitched, 3_Myog_60hr_MT_peak_6797_lociStitched		Tubd1,Mir21,Rps6kb1	Mir21	21, 44
+chr3	54443969	54487749	8_Pbx1mt_peak_10192_lociStitched, 3_Myog_60hr_MT_peak_25448_lociStitched			Postn	22, 281
+chr2	60682811	60717726	10_Myog_60hr_MT_peak_22897_lociStitched, 6_MyoD_2d_MT_peak_8718_lociStitched	Itgb6	Itgb6	Itgb6	23, 13
+chr3	121464917	121481972	3_Pbx1mt_peak_10745_lociStitched, 5_MyoD_2d_MT_peak_10137_lociStitched	Slc44a3	Cnn3	Cnn3	23, 33
+chr12	86859889	86897466	12_Myog_60hr_MT_peak_9531_lociStitched, 4_Pbx1mt_peak_3044_lociStitched	Irf2bpl	2310044G17Rik	Irf2bpl	25, 179
+chr11	117216808	117276404	16_Myog_60hr_MT_peak_8055_lociStitched	Sept9		Sept9	26
+chr5	111877239	111893252	6_MyoD_2d_MT_peak_11837_lociStitched, 7_Myog_60hr_MT_peak_31083_lociStitched			E130006D01Rik	27, 55
+chr4	57537823	57560364	3_MyoD_2d_MT_peak_10604_lociStitched, 5_Pbx1mt_peak_11323_lociStitched		Palm2	Palm2	28, 20
+chr1	192778291	192807163	9_MyoD_2d_MT_peak_1213_lociStitched, 9_Myog_60hr_MT_peak_2809_lociStitched		1700065J18Rik,Sertad4,Hhat	Hhat	29, 84
+chr10	31573334	31604178	7_Pbx1mt_peak_1803_lociStitched, 6_Myog_60hr_MT_peak_3202_lociStitched	Rnf217		Rnf217	29, 117
+chr11	88585491	88608877	10_Myog_60hr_MT_peak_6906_lociStitched, 7_MyoD_2d_MT_peak_2766_lociStitched	Msi2		Msi2	29, 45
+chr11	88585491	88608877	10_Myog_60hr_MT_peak_6906_lociStitched, 7_MyoD_2d_MT_peak_2766_lociStitched	Msi2		Msi2	29, 45
+chr15	99796516	99847027	12_Myog_60hr_MT_peak_15426_lociStitched, 2_MyoD_2d_MT_peak_6006_lociStitched	Lima1	Cers5	Lima1	30, 229
+chr15	99796516	99847027	12_Myog_60hr_MT_peak_15426_lociStitched, 2_MyoD_2d_MT_peak_6006_lociStitched	Lima1	Cers5	Lima1	30, 229
+chr13	51960346	51980749	12_Myog_60hr_MT_peak_10949_lociStitched, 6_MyoD_2d_MT_peak_4262_lociStitched			Gadd45g	33, 20
+chr6	127953194	128085978	46_Myog_60hr_MT_peak_34041_lociStitched, 5_MyoD_2d_MT_peak_12885_lociStitched	Tspan9		Tspan9	34, 547
+chr6	127953194	128085978	46_Myog_60hr_MT_peak_34041_lociStitched, 5_MyoD_2d_MT_peak_12885_lociStitched	Tspan9		Tspan9	34, 547
+chr6	127953194	128085978	46_Myog_60hr_MT_peak_34041_lociStitched, 5_MyoD_2d_MT_peak_12885_lociStitched	Tspan9		Tspan9	34, 547
+chr3	88488393	88510356	5_MyoD_2d_MT_peak_9892_lociStitched, 6_Myog_60hr_MT_peak_25832_lociStitched	Lmna	Sema4a,Ubqln4,Rab25,Mex3a,Mir1905,Lamtor2	Lmna	36, 36
+chr18	37825463	37850028	8_MyoD_2d_MT_peak_7529_lociStitched, 8_Myog_60hr_MT_peak_19583_lociStitched	Diap1,Pcdhga9,Pcdhgb1,Pcdhgc3,Pcdhga12,Pcdhgb5,Pcdhga6,Pcdhga3,Pcdhgb7,Pcdhgb4,Pcdhga2,Pcdhga10,Pcdhga1,Pcdhga11,Pcdhgb2,Pcdhgb8,Pcdhga8,Pcdhgb6,Pcdhga7,Pcdhga4,Pcdhgc5,Pcdha4-g,Pcdhga5,Pcdhgc4		Pcdhgc5	37, 151
+chr15	77150501	77163843	4_Pbx1mt_peak_6231_lociStitched, 2_Myog_60hr_MT_peak_14466_lociStitched	Rbfox2	Rbfox2	Rbfox2	38, 526
+chr15	81031748	81069270	9_Myog_60hr_MT_peak_14764_lociStitched, 3_MyoD_2d_MT_peak_5842_lociStitched	Mkl1		Mkl1	38, 138
+chr15	81031748	81069270	9_Myog_60hr_MT_peak_14764_lociStitched, 3_MyoD_2d_MT_peak_5842_lociStitched	Mkl1		Mkl1	38, 138
+chr10	95457795	95472398	5_MyoD_2d_MT_peak_1931_lociStitched, 4_Myog_60hr_MT_peak_4595_lociStitched		Socs2,Ube2n,Mrpl42,5730420D15Rik	Mrpl42	39, 334
+chr9	70198119	70255320	11_Myog_60hr_MT_peak_40933_lociStitched, 5_MyoD_2d_MT_peak_15282_lociStitched	Myo1e		Myo1e	39, 106
+chr4	150772335	150809706	8_Myog_60hr_MT_peak_29582_lociStitched, 4_MyoD_2d_MT_peak_11242_lociStitched		1700045H11Rik,Errfi1	1700045H11Rik	41, 40
+chr15	25761735	25775405	7_Myog_60hr_MT_peak_13461_lociStitched, 4_MyoD_2d_MT_peak_5399_lociStitched	Myo10		Fam134b	42, 31
+chr18	47154806	47170332	3_Pbx1mt_peak_7945_lociStitched, 3_MyoD_2d_MT_peak_7585_lociStitched			Commd10	42, 66
+chr10	39307359	39322396	7_Pbx1mt_peak_1859_lociStitched, 4_Myog_60hr_MT_peak_3251_lociStitched		Fyn	Fyn	43, 501
+chr18	5806454	5836140	5_MyoD_2d_MT_peak_7376_lociStitched, 8_Myog_60hr_MT_peak_19179_lociStitched			Gm10125	43, 46
+chr7	65388230	65463832	9_Myog_60hr_MT_peak_35434_lociStitched, 4_MyoD_2d_MT_peak_13268_lociStitched		Tjp1	Tjp1	43, 96
+chr7	65388230	65463832	9_Myog_60hr_MT_peak_35434_lociStitched, 4_MyoD_2d_MT_peak_13268_lociStitched		Tjp1	Tjp1	43, 96
+chr8	45596102	45611181	6_Pbx1mt_peak_15642_lociStitched	Sorbs2		Sorbs2	46
+chr2	163344958	163365003	13_Myog_60hr_MT_peak_24441_lociStitched, 4_MyoD_2d_MT_peak_9361_lociStitched	Jph2		Jph2	48, 54
+chr8	45815370	45845136	7_Pbx1mt_peak_15647_lociStitched	Sorbs2,D330022K07Rik	Pdlim3	D330022K07Rik	48
+chr13	97757211	97784305	4_MyoD_2d_MT_peak_4523_lociStitched, 5_Myog_60hr_MT_peak_11559_lociStitched			Gm5086	49, 83
+chr1	134060825	134099585	16_Myog_60hr_MT_peak_1669_lociStitched, 2_Pbx1mt_peak_867_lociStitched	Btg2	Chit1,Fmod	Btg2	51, 94
+chr12	111846039	111853419	3_Pbx1mt_peak_3228_lociStitched, 5_Myog_60hr_MT_peak_10015_lociStitched	Ppp1r13b	Zfyve21,Xrcc3	Zfyve21	52, 406
+chr15	99332917	99352652	8_Myog_60hr_MT_peak_15381_lociStitched, 3_MyoD_2d_MT_peak_5991_lociStitched	Fmnl3	Prpf40b,Tmbim6,Fam186b	Fmnl3	52, 62
+chr2	163661370	163722825	5_MyoD_2d_MT_peak_9366_lociStitched, 9_Myog_60hr_MT_peak_24473_lociStitched	Pkig	0610039K10Rik,Pkig,Serinc3,Ada	Pkig	52, 119
+chr17	31728990	31791198	27_Myog_60hr_MT_peak_17950_lociStitched, 3_MyoD_2d_MT_peak_6935_lociStitched			Cryaa	53, 260
+chr17	31728990	31791198	27_Myog_60hr_MT_peak_17950_lociStitched, 3_MyoD_2d_MT_peak_6935_lociStitched			Cryaa	53, 260
+chr17	31728990	31791198	27_Myog_60hr_MT_peak_17950_lociStitched, 3_MyoD_2d_MT_peak_6935_lociStitched			Cryaa	53, 260
+chr5	36356646	36380414	13_Myog_60hr_MT_peak_30313_lociStitched, 4_MyoD_2d_MT_peak_11515_lociStitched	Sorcs2		Sorcs2	54, 155
+chr14	25470527	25519993	28_Myog_60hr_MT_peak_12138_lociStitched, 5_MyoD_2d_MT_peak_4823_lociStitched	Zmiz1	Mir3075	Zmiz1	57, 116
+chr14	25470527	25519993	28_Myog_60hr_MT_peak_12138_lociStitched, 5_MyoD_2d_MT_peak_4823_lociStitched	Zmiz1	Mir3075	Zmiz1	57, 116
+chr8	121990936	122055861	23_Myog_60hr_MT_peak_39315_lociStitched	Banp	Banp,Car5a	Banp	58
+chr1	43237155	43260214	6_MyoD_2d_MT_peak_155_lociStitched, 4_Myog_60hr_MT_peak_377_lociStitched			Fhl2	59, 138
+chr2	167232189	167336911	23_Myog_60hr_MT_peak_24667_lociStitched	Ptgis,B4galt5	Kcnb1	Ptgis	59
+chr15	3707059	3725472	8_Pbx1mt_peak_5093_lociStitched, 4_Myog_60hr_MT_peak_13292_lociStitched			Ghr	60, 258
+chr14	25734732	25766136	12_Myog_60hr_MT_peak_12184_lociStitched, 8_MyoD_2d_MT_peak_4829_lociStitched	Zcchc24	Ppif,Ppifos	Zcchc24	61, 46
+chr15	66877813	66906657	3_MyoD_2d_MT_peak_5684_lociStitched, 7_Myog_60hr_MT_peak_14136_lociStitched	Wisp1	Sla	Wisp1	63, 5
+chr5	31627637	31637241	4_Myog_60hr_MT_peak_30090_lociStitched, 2_Pbx1mt_peak_13073_lociStitched	Rbks	Mrpl33	Mrpl33	63, 40
+chr13	37605437	37692456	15_Myog_60hr_MT_peak_10591_lociStitched, 6_MyoD_2d_MT_peak_4141_lociStitched			Rreb1	64, 72
+chr13	37605437	37692456	15_Myog_60hr_MT_peak_10591_lociStitched, 6_MyoD_2d_MT_peak_4141_lociStitched			Rreb1	64, 72
+chr7	28949394	28972208	4_MyoD_2d_MT_peak_13122_lociStitched	Eif3k,Actn4	Map4k1	Actn4	64
+chr1	91022595	91032833	12_Myog_60hr_MT_peak_1163_lociStitched, 2_MyoD_2d_MT_peak_513_lociStitched	Lrrfip1	Lrrfip1	Lrrfip1	65, 510
+chr4	123422619	123426159	3_Pbx1mt_peak_11847_lociStitched	Macf1	D830031N03Rik	D830031N03Rik	66
+chr5	64360468	64371768	9_Myog_60hr_MT_peak_30541_lociStitched, 4_MyoD_2d_MT_peak_11601_lociStitched			1700027F09Rik	66, 231
+chr12	52816482	52878079	4_Pbx1mt_peak_2799_lociStitched, 8_Myog_60hr_MT_peak_8900_lociStitched	Akap6		Akap6	68, 22
+chr18	61360666	61384960	9_Myog_60hr_MT_peak_19879_lociStitched, 2_Pbx1mt_peak_8053_lociStitched	Ppargc1b		Ppargc1b	69, 333
+chr4	58460398	58477916	6_Pbx1mt_peak_11354_lociStitched	Lpar1	Mir3095	Mir3095	69
+chr19	53731696	53760314	4_MyoD_2d_MT_peak_8225_lociStitched, 12_Myog_60hr_MT_peak_21552_lociStitched	Rbm20		Rbm20	71, 77
+chr6	145992394	146010590	9_Myog_60hr_MT_peak_34245_lociStitched, 6_MyoD_2d_MT_peak_12987_lociStitched			Sspn	71, 30
+chr11	8429432	8446313	6_Myog_60hr_MT_peak_5230_lociStitched	Tns3		Tns3	72
+chr17	9744066	9761076	6_Pbx1mt_peak_7119_lociStitched, 5_MyoD_2d_MT_peak_6721_lociStitched	4930452A19Rik		4930452A19Rik	72, 165
+chr11	4271023	4302574	11_Myog_60hr_MT_peak_5081_lociStitched, 7_MyoD_2d_MT_peak_2142_lociStitched	Lif	Osm	Lif	73, 34
+chr2	60600970	60646906	8_Myog_60hr_MT_peak_22889_lociStitched	Itgb6	Pla2r1	Itgb6	74
+chr2	60600970	60646906	8_Myog_60hr_MT_peak_22889_lociStitched	Itgb6	Pla2r1	Itgb6	74
+chr9	116366299	116383743	6_Myog_60hr_MT_peak_41676_lociStitched, 3_Pbx1mt_peak_18888_lociStitched			Tgfbr2	76, 39
+chr15	6055632	6059999	3_Pbx1mt_peak_5118_lociStitched			Dab2	77
+chr16	38368375	38389648	4_MyoD_2d_MT_peak_6368_lociStitched, 8_Myog_60hr_MT_peak_16450_lociStitched	Popdc2	Maats1,Cox17,Pla1a	Popdc2	77, 174
+chr12	9106513	9114035	3_Pbx1mt_peak_2625_lociStitched, 3_MyoD_2d_MT_peak_3280_lociStitched			Ttc32	78, 325
+chr2	180185323	180228880	15_Myog_60hr_MT_peak_24934_lociStitched, 4_MyoD_2d_MT_peak_9502_lociStitched	Lama5	Adrm1,Cables2,Rps21,Mir3091	Lama5	78, 60
+chr2	152781101	152826662	9_Myog_60hr_MT_peak_24134_lociStitched, 4_Pbx1mt_peak_9723_lociStitched	Bcl2l1	Cox4i2,Id1,Tpx2	Bcl2l1	79, 133
+chr4	155118397	155149155	35_Myog_60hr_MT_peak_29732_lociStitched, 7_MyoD_2d_MT_peak_11268_lociStitched	Morn1	Rer1	Morn1	81, 403
+chr11	120206990	120273931	22_Myog_60hr_MT_peak_8369_lociStitched	Bahcc1	2810410L24Rik	Bahcc1	82
+chr14	31660738	31670106	5_MyoD_2d_MT_peak_4879_lociStitched, 4_Myog_60hr_MT_peak_12309_lociStitched	Btd	Hacl1	Btd	82, 209
+chr2	117652311	117686120	9_Pbx1mt_peak_9435_lociStitched			4930412B13Rik	83
+chr15	28131518	28139099	3_Pbx1mt_peak_5373_lociStitched, 4_Myog_60hr_MT_peak_13551_lociStitched			Dnahc5	84, 191
+chr4	58268883	58289047	6_Pbx1mt_peak_11344_lociStitched, 3_Myog_60hr_MT_peak_27555_lociStitched	Musk	Musk	Musk	85, 344
+chr5	143040814	143054208	6_Pbx1mt_peak_13595_lociStitched, 5_Myog_60hr_MT_peak_32055_lociStitched	Rnf216		Rnf216	86, 961
+chr13	104494353	104510910	3_MyoD_2d_MT_peak_4611_lociStitched, 3_Myog_60hr_MT_peak_11747_lociStitched	Adamts6		Adamts6	87, 439
+chr2	93426004	93470340	15_Myog_60hr_MT_peak_23335_lociStitched, 9_MyoD_2d_MT_peak_8881_lociStitched	Cd82,Gm10804	Cd82,Gm13807	Cd82	87, 41
+chr4	11978686	12009521	5_MyoD_2d_MT_peak_10428_lociStitched, 4_Pbx1mt_peak_11114_lociStitched	1700123M08Rik	Pdp1	1700123M08Rik	88, 101
+chr2	35250314	35278019	6_MyoD_2d_MT_peak_8580_lociStitched, 6_Myog_60hr_MT_peak_22603_lociStitched	Gsn	Rab14,Gsn	Gsn	89, 337
+chr15	34043248	34057815	7_Pbx1mt_peak_5474_lociStitched, 5_Myog_60hr_MT_peak_13627_lociStitched		Mtdh	Mtdh	91, 505
+chr10	80144990	80165259	11_Myog_60hr_MT_peak_4083_lociStitched, 5_MyoD_2d_MT_peak_1769_lociStitched	Midn,Atp5d,Bc1	Cirbp,Dos,Efna2,Stk11,Sbno2,1600002K03Rik	Midn	92, 308
+chr12	113018853	113041777	11_Myog_60hr_MT_peak_10126_lociStitched, 6_MyoD_2d_MT_peak_3881_lociStitched	Pacs2	Btbd6,Brf1,Tex22	Pacs2	93, 58
+chr15	103220875	103233395	5_Pbx1mt_peak_6437_lociStitched	Cbx5	Cbx5,Copz1,Nfe2,Hnrnpa1	Cbx5	93
+chr1	163208677	163235721	4_Pbx1mt_peak_1151_lociStitched			Prrx1	95
+chr18	35353023	35383763	5_MyoD_2d_MT_peak_7501_lociStitched, 3_Myog_60hr_MT_peak_19503_lociStitched	Sil1		Sil1	97, 595
+chr1	66922108	66957819	11_Pbx1mt_peak_443_lociStitched	Myl1		Myl1	99
+chr5	113845709	113883509	14_Myog_60hr_MT_peak_31140_lociStitched, 6_MyoD_2d_MT_peak_11859_lociStitched	Coro1c	Tmem119,Selplg	Selplg	99, 196
+chr14	20874034	20894107	4_MyoD_2d_MT_peak_4756_lociStitched, 5_Myog_60hr_MT_peak_12040_lociStitched		Vcl,Plau	Vcl	100, 230
+chr3	87973666	87987100	9_Myog_60hr_MT_peak_25796_lociStitched	Nes	Rrnad1,Crabp2,Hapln2,Bcan,Isg20l2	Nes	100
+chr17	10024375	10042317	9_Myog_60hr_MT_peak_17194_lociStitched			4930452A19Rik	101
+chr17	70993542	70998865	2_MyoD_2d_MT_peak_7181_lociStitched, 5_Myog_60hr_MT_peak_18742_lociStitched	Myl12a	Myom1,Myl12b	Myl12b	101, 348
+chr8	84192088	84203790	11_Myog_60hr_MT_peak_38365_lociStitched		Mir181c,Zswim4,Mir181d,4930432K21Rik,D8Ertd738e,Nanos3,Cc2d1a,Mir3074-2,Mir24-2,Mir23a,Mir27a	Mir23a	102
+chr3	123138282	123139875	4_Pbx1mt_peak_10777_lociStitched, 2_MyoD_2d_MT_peak_10176_lociStitched	Synpo2		Synpo2	103, 584
+chr11	79716284	79739526	6_Myog_60hr_MT_peak_6659_lociStitched, 3_MyoD_2d_MT_peak_2677_lociStitched	Mir365-2	Mir193,4930542H20Rik	Mir365-2	107, 143
+chr2	135848131	135875810	6_Pbx1mt_peak_9615_lociStitched	Plcb4		Plcb4	107
+chr6	146941786	146961247	4_Pbx1mt_peak_14367_lociStitched, 3_MyoD_2d_MT_peak_13000_lociStitched	1700034J05Rik,Ppfibp1		1700034J05Rik	108, 335
+chr19	46899919	46944719	8_Pbx1mt_peak_8578_lociStitched	Nt5c2	Nt5c2	Nt5c2	109
+chr15	31302311	31338855	9_Myog_60hr_MT_peak_13587_lociStitched	Ankrd33b		Ankrd33b	110
+chr15	31302311	31338855	9_Myog_60hr_MT_peak_13587_lociStitched	Ankrd33b		Ankrd33b	110
+chr5	31602339	31610671	3_MyoD_2d_MT_peak_11448_lociStitched, 3_Myog_60hr_MT_peak_30089_lociStitched		AI839979,Mrpl33	Mrpl33	110, 250
+chr4	120223152	120291382	22_Myog_60hr_MT_peak_28348_lociStitched	Foxo6		Foxo6	111
+chr4	120223152	120291382	22_Myog_60hr_MT_peak_28348_lociStitched	Foxo6		Foxo6	111
+chr5	15948759	15985497	7_Pbx1mt_peak_12951_lociStitched	Cacna2d1	Cacna2d1	Cacna2d1	112
+chr14	105359921	105388072	5_MyoD_2d_MT_peak_5248_lociStitched, 8_Pbx1mt_peak_4995_lociStitched		5430440P10Rik	5430440P10Rik	113, 75
+chr7	19777072	19840770	14_Myog_60hr_MT_peak_34605_lociStitched	Bcl3,Cblc	Gm19345,Ceacam16,Bcam,Pvrl2,Cblc,Ceacam19	Cblc	113
+chr15	36854901	36893896	11_Myog_60hr_MT_peak_13690_lociStitched, 4_MyoD_2d_MT_peak_5475_lociStitched			Ywhaz	115, 118
+chr15	36854901	36893896	11_Myog_60hr_MT_peak_13690_lociStitched, 4_MyoD_2d_MT_peak_5475_lociStitched			Ywhaz	115, 118
+chr8	84719393	84760003	7_MyoD_2d_MT_peak_14302_lociStitched, 15_Myog_60hr_MT_peak_38394_lociStitched	Nfix	Lyl1,Nfix,Trmt1,Nacc1	Nfix	115, 143
+chr8	84719393	84760003	7_MyoD_2d_MT_peak_14302_lociStitched, 15_Myog_60hr_MT_peak_38394_lociStitched	Nfix	Lyl1,Nfix,Trmt1,Nacc1	Nfix	115, 143
+chr5	123135530	123155699	6_Myog_60hr_MT_peak_31471_lociStitched	Setd1b	Rhof,Hpd	Setd1b	116
+chr7	110273747	110301063	11_Myog_60hr_MT_peak_36272_lociStitched	Swap70		Swap70	118
+chr5	112260304	112288023	6_Myog_60hr_MT_peak_31100_lociStitched, 4_MyoD_2d_MT_peak_11844_lociStitched	Crybb1,Tpst2	Tfip11,Miat,Cryba4	Tpst2	120, 53
+chr19	47486062	47492271	8_Myog_60hr_MT_peak_21477_lociStitched, 2_MyoD_2d_MT_peak_8197_lociStitched		Obfc1,Gm19557,Sh3pxd2a	Gm19557	121, 434
+chr19	16950087	16966385	2_Pbx1mt_peak_8331_lociStitched, 4_Myog_60hr_MT_peak_20891_lociStitched	Prune2		Prune2	124, 193
+chr5	144258876	144296224	10_Myog_60hr_MT_peak_32085_lociStitched	Bri3,Baiap2l1,Gm15708	Tecpr1	Gm15708	124
+chrX	7276598	7293636	3_Myog_60hr_MT_peak_41935_lociStitched, 4_MyoD_2d_MT_peak_15738_lociStitched	Clcn5	Mir532,Mir362,Mir501,Mir188,Mir500	Clcn5	125, 35
+chr4	62726667	62744925	6_MyoD_2d_MT_peak_10644_lociStitched, 6_Myog_60hr_MT_peak_27632_lociStitched			Rgs3	126, 314
+chr6	72976912	72989415	4_Myog_60hr_MT_peak_33011_lociStitched, 3_MyoD_2d_MT_peak_12554_lociStitched		Tmsb10	Tmsb10	127, 74
+chr17	29049127	29063550	14_Myog_60hr_MT_peak_17806_lociStitched, 9_MyoD_2d_MT_peak_6894_lociStitched	Gm16197	Stk38,Cdkn1a,Srsf3	Gm16197	128, 119
+chr11	119794707	119826133	3_MyoD_2d_MT_peak_3193_lociStitched, 12_Myog_60hr_MT_peak_8301_lociStitched	Rptor,A430071A18Rik		A430071A18Rik	129, 94
+chr11	119794707	119826133	3_MyoD_2d_MT_peak_3193_lociStitched, 12_Myog_60hr_MT_peak_8301_lociStitched	Rptor,A430071A18Rik		A430071A18Rik	129, 94
+chr2	156716846	156737231	8_Myog_60hr_MT_peak_24298_lociStitched, 3_MyoD_2d_MT_peak_9313_lociStitched	Dlgap4,4930405A21Rik	Myl9	Dlgap4	130, 269
+chr13	32922621	32934885	3_Pbx1mt_peak_3651_lociStitched, 3_Myog_60hr_MT_peak_10493_lociStitched		Serpinb6b,Serpinb1c	Serpinb1c	131, 155
+chr15	77008918	77041109	13_Myog_60hr_MT_peak_14447_lociStitched, 4_MyoD_2d_MT_peak_5768_lociStitched	Mb	Apol6	Mb	131, 117
+chr15	77008918	77041109	13_Myog_60hr_MT_peak_14447_lociStitched, 4_MyoD_2d_MT_peak_5768_lociStitched	Mb	Apol6	Mb	131, 117
+chr3	122088274	122097484	4_Myog_60hr_MT_peak_26491_lociStitched, 3_MyoD_2d_MT_peak_10155_lociStitched	Abca4		Abca4	132, 107
+chr10	68146955	68166714	4_Pbx1mt_peak_2065_lociStitched	Arid5b		Arid5b	134
+chr7	130596576	130646176	17_Myog_60hr_MT_peak_36764_lociStitched, 3_MyoD_2d_MT_peak_13727_lociStitched	Tacc2	Nsmce4a,Tacc2	Tacc2	134, 537
+chr4	137474110	137498529	10_Myog_60hr_MT_peak_29060_lociStitched, 3_MyoD_2d_MT_peak_11127_lociStitched	Hspg2	Cela3b,1700013G24Rik	Hspg2	135, 112
+chr6	72473609	72493206	6_MyoD_2d_MT_peak_12536_lociStitched, 3_Myog_60hr_MT_peak_32980_lociStitched		4930414L22Rik,Mat2a	Mat2a	136, 1000
+chr11	80479448	80512605	17_Myog_60hr_MT_peak_6692_lociStitched, 6_MyoD_2d_MT_peak_2695_lociStitched	Cdk5r1,Myo1d		Cdk5r1	137, 94
+chr13	49344583	49372723	12_Myog_60hr_MT_peak_10862_lociStitched, 5_MyoD_2d_MT_peak_4224_lociStitched	Bicd2	Bicd2,Fgd3,Ippk	Bicd2	140, 75
+chr18	35814846	35847869	18_Myog_60hr_MT_peak_19536_lociStitched, 6_MyoD_2d_MT_peak_7510_lociStitched	Cxxc5	Ube2d2a	Cxxc5	141, 307
+chr11	52071806	52089330	6_Myog_60hr_MT_peak_5699_lociStitched	Cdkl3	Mir3061,Ppp2ca	Ppp2ca	142
+chr6	97216266	97240467	2_Pbx1mt_peak_14125_lociStitched, 7_Myog_60hr_MT_peak_33440_lociStitched	Arl6ip5,Lmod3	Tmf1,Uba3	Arl6ip5	143, 144
+chr11	46116609	46127958	3_MyoD_2d_MT_peak_2340_lociStitched, 5_Myog_60hr_MT_peak_5574_lociStitched	Adam19	Nipal4	Nipal4	144, 324
+chr7	46329769	46380963	2_Pbx1mt_peak_14512_lociStitched, 14_Myog_60hr_MT_peak_35223_lociStitched	Myod1	Kcnc1	Myod1	144, 28
+chr16	86209439	86223331	3_Pbx1mt_peak_6969_lociStitched, 3_Myog_60hr_MT_peak_16686_lociStitched			Adamts5	145, 458
+chr4	133070796	133118134	15_Myog_60hr_MT_peak_28735_lociStitched, 4_MyoD_2d_MT_peak_11044_lociStitched	Ahdc1	Wasf2	Wasf2	146, 201
+chr4	133070796	133118134	15_Myog_60hr_MT_peak_28735_lociStitched, 4_MyoD_2d_MT_peak_11044_lociStitched	Ahdc1	Wasf2	Wasf2	146, 201
+chr1	184037072	184066382	6_Myog_60hr_MT_peak_2602_lociStitched, 3_Pbx1mt_peak_1353_lociStitched	Dusp10	1700056E22Rik	Dusp10	148, 610
+chr3	144638185	144643830	2_MyoD_2d_MT_peak_10303_lociStitched, 3_Pbx1mt_peak_10974_lociStitched			Sep15	149, 116
+chr8	121872090	121902040	13_Myog_60hr_MT_peak_39299_lociStitched, 2_MyoD_2d_MT_peak_14607_lociStitched	Slc7a5	BC048644,Banp,Klhdc4,Car5a	Slc7a5	150, 485
+chr12	8431913	8457397	8_MyoD_2d_MT_peak_3264_lociStitched, 14_Myog_60hr_MT_peak_8553_lociStitched		Rhob	Rhob	153, 173
+chr6	89308303	89350756	15_Myog_60hr_MT_peak_33254_lociStitched, 8_MyoD_2d_MT_peak_12624_lociStitched	Plxna1		Plxna1	153, 189
+chr9	75422388	75436244	7_Myog_60hr_MT_peak_41048_lociStitched		4933433G15Rik,Mapk6,Leo1	Leo1	156
+chr13	99058599	99071706	5_Myog_60hr_MT_peak_11602_lociStitched, 3_MyoD_2d_MT_peak_4544_lociStitched		2310020H05Rik	2310020H05Rik	157, 334
+chr2	35889908	35911027	2_MyoD_2d_MT_peak_8595_lociStitched, 4_Myog_60hr_MT_peak_22654_lociStitched	Ttll11		Ttll11	158, 504
+chr5	36067339	36085863	6_Myog_60hr_MT_peak_30279_lociStitched	Sorcs2		Psapl1	158
+chr2	32162277	32174724	14_Myog_60hr_MT_peak_22451_lociStitched, 4_MyoD_2d_MT_peak_8535_lociStitched	Prrc2b		Prrc2b	159, 167
+chr4	45423811	45473495	16_Myog_60hr_MT_peak_27324_lociStitched, 4_MyoD_2d_MT_peak_10535_lociStitched	Shb	Slc25a51	Slc25a51	160, 300
+chr4	45423811	45473495	16_Myog_60hr_MT_peak_27324_lociStitched, 4_MyoD_2d_MT_peak_10535_lociStitched	Shb	Slc25a51	Slc25a51	160, 300
+chr5	64196192	64207153	2_Pbx1mt_peak_13194_lociStitched, 3_Myog_60hr_MT_peak_30524_lociStitched	Tbc1d1		Tbc1d1	162, 658
+chr5	93106079	93137512	6_Myog_60hr_MT_peak_30787_lociStitched, 2_MyoD_2d_MT_peak_11719_lociStitched	Sept11		Sept11	162, 324
+chr15	58192237	58220064	6_Myog_60hr_MT_peak_13959_lociStitched	Fbxo32		Fbxo32	165
+chr10	59792837	59825797	10_Myog_60hr_MT_peak_3510_lociStitched	Micu1		Dnajb12	167
+chr10	59792837	59825797	10_Myog_60hr_MT_peak_3510_lociStitched	Micu1		Dnajb12	167
+chr10	69185906	69188142	3_Pbx1mt_peak_2098_lociStitched, 2_MyoD_2d_MT_peak_1661_lociStitched		Rhobtb1	Rhobtb1	167, 528
+chr11	54059451	54075686	5_Myog_60hr_MT_peak_5775_lociStitched	Pdlim4	Slc22a4,P4ha2	Pdlim4	168
+chr2	130488574	130497224	3_Pbx1mt_peak_9554_lociStitched, 3_Myog_60hr_MT_peak_23870_lociStitched	Ptpra	Ptpra	Ptpra	168, 529
+chr1	172132332	172140449	3_MyoD_2d_MT_peak_1020_lociStitched, 2_Myog_60hr_MT_peak_2304_lociStitched	Pex19	Copa,Ncstn,Dcaf8	Pex19	170, 610
+chr6	82854348	82887132	10_Myog_60hr_MT_peak_33030_lociStitched	2310069B03Rik		2310069B03Rik	170
+chr17	31912448	31942012	12_Myog_60hr_MT_peak_17980_lociStitched			Sik1	172
+chr2	77020234	77051950	7_Pbx1mt_peak_9156_lociStitched	Ccdc141	Ttn	Ttn	172
+chr2	77020234	77051950	7_Pbx1mt_peak_9156_lociStitched	Ccdc141	Ttn	Ttn	172
+chr3	65469347	65482968	4_Pbx1mt_peak_10311_lociStitched, 4_Myog_60hr_MT_peak_25578_lociStitched		Tiparp,4931440P22Rik	Tiparp	173, 936
+chr8	11372165	11387507	5_Myog_60hr_MT_peak_37368_lociStitched, 3_MyoD_2d_MT_peak_13896_lociStitched	Col4a2		Col4a2	175, 78
+chr13	55156211	55174781	4_Myog_60hr_MT_peak_11056_lociStitched, 4_MyoD_2d_MT_peak_4306_lociStitched	Fgfr4	Nsd1	Fgfr4	176, 127
+chr10	41538539	41555332	4_Pbx1mt_peak_1875_lociStitched, 6_Myog_60hr_MT_peak_3321_lociStitched	Ccdc162	Smpd2,Ppil6,Cd164,5730435O14Rik	5730435O14Rik	177, 592
+chr10	61275569	61294588	3_Myog_60hr_MT_peak_3607_lociStitched, 3_MyoD_2d_MT_peak_1601_lociStitched		Adamts14,Prf1	Adamts14	177, 93
+chr4	8927291	8954739	8_Myog_60hr_MT_peak_26963_lociStitched, 5_MyoD_2d_MT_peak_10412_lociStitched			Chd7	178, 142
+chr4	8927291	8954739	8_Myog_60hr_MT_peak_26963_lociStitched, 5_MyoD_2d_MT_peak_10412_lociStitched			Chd7	178, 142
+chr4	155162515	155178718	7_MyoD_2d_MT_peak_11278_lociStitched	Ski		Ski	178
+chr15	25625539	25646170	11_Myog_60hr_MT_peak_13439_lociStitched, 3_MyoD_2d_MT_peak_5392_lociStitched	Myo10		Myo10	181, 163
+chr5	125040259	125082026	13_Myog_60hr_MT_peak_31572_lociStitched	Ncor2	Fam101a	Fam101a	182
+chr11	43919437	43933830	3_MyoD_2d_MT_peak_2319_lociStitched, 4_Myog_60hr_MT_peak_5546_lociStitched			Adra1b	184, 417
+chr2	26480227	26557050	18_Myog_60hr_MT_peak_22056_lociStitched	Notch1	Sec16a,Agpat2,Egfl7,Mir126	Notch1	185
+chr8	82846581	82960471	38_Pbx1mt_peak_16707_lociStitched	Rnf150		Rnf150	185
+chr18	60595320	60619863	6_Myog_60hr_MT_peak_19833_lociStitched, 4_MyoD_2d_MT_peak_7638_lociStitched	Synpo	Myoz3,Rbm22,G630071F17Rik	Synpo	186, 124
+chr11	77783239	77814317	12_Myog_60hr_MT_peak_6560_lociStitched	Myo18a		Myo18a	187
+chr7	132697492	132773699	30_Myog_60hr_MT_peak_36848_lociStitched	Fam53b,Lhpp		Fam53b	188
+chr10	93792831	93801275	4_Myog_60hr_MT_peak_4540_lociStitched, 3_MyoD_2d_MT_peak_1901_lociStitched		Usp44	Usp44	189, 477
+chr10	51975223	51982816	3_Pbx1mt_peak_1942_lociStitched		Vgll2	Vgll2	190
+chr4	134579361	134645834	18_Myog_60hr_MT_peak_28843_lociStitched	Man1c1	Mtfr1l,Sepn1	Sepn1	190
+chr15	83469373	83474477	5_Myog_60hr_MT_peak_14893_lociStitched, 3_MyoD_2d_MT_peak_5874_lociStitched		Pacsin2,Ttll1	Pacsin2	192, 161
+chr2	135734035	135738765	2_Pbx1mt_peak_9603_lociStitched, 3_Myog_60hr_MT_peak_23965_lociStitched		Plcb4	Plcb4	194, 567
+chr9	35333455	35350447	5_Myog_60hr_MT_peak_40114_lociStitched, 3_Pbx1mt_peak_18264_lociStitched			4933422A05Rik	194, 58
+chr15	78832735	78836609	6_Myog_60hr_MT_peak_14576_lociStitched, 2_MyoD_2d_MT_peak_5803_lociStitched		Cdc42ep1,Gga1,Card10,Lgals2	Cdc42ep1	198, 476
+chr5	4234506	4246787	4_Pbx1mt_peak_12488_lociStitched		Gm9897	Gm9897	198
+chr8	15049593	15073174	5_Myog_60hr_MT_peak_37518_lociStitched, 3_MyoD_2d_MT_peak_13941_lociStitched	Myom2	Kbtbd11,BB014433	Myom2	199, 154
+chr9	102715087	102736389	9_Myog_60hr_MT_peak_41362_lociStitched	Amotl2	Gm5627	Amotl2	200
+chr12	100977626	101008535	17_Myog_60hr_MT_peak_9697_lociStitched, 11_MyoD_2d_MT_peak_3769_lociStitched	Ccdc88c	Mir1190	Mir1190	202, 147
+chr12	100977626	101008535	17_Myog_60hr_MT_peak_9697_lociStitched, 11_MyoD_2d_MT_peak_3769_lociStitched	Ccdc88c	Mir1190	Mir1190	202, 147
+chr19	5013311	5021722	3_Myog_60hr_MT_peak_20491_lociStitched, 3_MyoD_2d_MT_peak_7880_lociStitched		Npas4,Slc29a2,Rin1,B3gnt1,Brms1,Cd248	Slc29a2	204, 56
+chr2	132203893	132222089	3_Myog_60hr_MT_peak_23933_lociStitched, 3_MyoD_2d_MT_peak_9182_lociStitched		Cds2,Tmem230,Pcna	Tmem230	205, 92
+chr7	118908940	118931859	5_MyoD_2d_MT_peak_13663_lociStitched, 6_Myog_60hr_MT_peak_36495_lociStitched	Iqck		Knop1	206, 468
+chr13	94166679	94190708	8_Myog_60hr_MT_peak_11491_lociStitched, 3_MyoD_2d_MT_peak_4489_lociStitched	Lhfpl2		Scamp1	207, 99
+chr12	73197467	73210794	6_Myog_60hr_MT_peak_9096_lociStitched, 4_Pbx1mt_peak_2883_lociStitched	Mnat1		Mnat1	208, 152
+chr18	16730265	16745396	3_Pbx1mt_peak_7742_lociStitched	Cdh2		Cdh2	208
+chr16	30172873	30188989	8_Myog_60hr_MT_peak_16203_lociStitched, 3_MyoD_2d_MT_peak_6276_lociStitched			Cpn2	210, 132
+chr10	14017950	14049502	7_Myog_60hr_MT_peak_3001_lociStitched, 3_MyoD_2d_MT_peak_1312_lociStitched	Hivep2		Hivep2	213, 187
+chr10	14017950	14049502	7_Myog_60hr_MT_peak_3001_lociStitched, 3_MyoD_2d_MT_peak_1312_lociStitched	Hivep2		Hivep2	213, 187
+chr8	45527405	45529996	4_Pbx1mt_peak_15635_lociStitched	Sorbs2		Sorbs2	213
+chr19	47379192	47459544	18_Myog_60hr_MT_peak_21469_lociStitched	Sh3pxd2a	Sh3pxd2a	Sh3pxd2a	214
+chr19	47379192	47459544	18_Myog_60hr_MT_peak_21469_lociStitched	Sh3pxd2a	Sh3pxd2a	Sh3pxd2a	214
+chr8	126873444	126887265	3_Pbx1mt_peak_18038_lociStitched, 4_MyoD_2d_MT_peak_14702_lociStitched			Tomm20	214, 356
+chr8	119420396	119440376	5_MyoD_2d_MT_peak_14560_lociStitched, 11_Myog_60hr_MT_peak_39101_lociStitched	Osgin1	Necab2,Mlycd	Osgin1	215, 464
+chr5	53933723	53952995	7_Myog_60hr_MT_peak_30490_lociStitched		Stim2	Stim2	216
+chr17	47511175	47523514	7_Myog_60hr_MT_peak_18374_lociStitched, 3_MyoD_2d_MT_peak_7053_lociStitched	Ccnd3	Taf8	Ccnd3	217, 166
+chr10	60191744	60209567	7_Myog_60hr_MT_peak_3544_lociStitched, 3_MyoD_2d_MT_peak_1582_lociStitched	Chst3		Chst3	218, 376
+chr6	100157456	100191109	7_MyoD_2d_MT_peak_12726_lociStitched, 10_Myog_60hr_MT_peak_33514_lociStitched			Rybp	218, 541
+chr10	12804804	12824016	3_Pbx1mt_peak_1559_lociStitched, 4_MyoD_2d_MT_peak_1299_lociStitched	Utrn		Utrn	221, 329
+chr10	15391954	15406510	4_Pbx1mt_peak_1595_lociStitched			Nmbr	222
+chr13	110541350	110545822	4_Pbx1mt_peak_4359_lociStitched			Plk2	223
+chr7	112454131	112491102	7_Myog_60hr_MT_peak_36382_lociStitched, 3_MyoD_2d_MT_peak_13621_lociStitched	Parva		Parva	224, 469
+chr10	59885459	59919827	11_Myog_60hr_MT_peak_3520_lociStitched, 4_MyoD_2d_MT_peak_1575_lociStitched	Dnajb12	Ddit4	Dnajb12	225, 254
+chr14	34440695	34465717	6_Pbx1mt_peak_4622_lociStitched	Bmpr1a		Bmpr1a	226
+chr1	92766643	92814639	10_Myog_60hr_MT_peak_1270_lociStitched, 5_MyoD_2d_MT_peak_561_lociStitched		Gpc1,Mir149	Gpc1	227, 80
+chr2	91291163	91299790	5_Myog_60hr_MT_peak_23229_lociStitched, 3_MyoD_2d_MT_peak_8846_lociStitched	1110051M20Rik	Pacsin3,Arfgap2	Arfgap2	229, 400
+chr2	31923725	31968808	16_Myog_60hr_MT_peak_22398_lociStitched	Aif1l,Lamc3	Nup214	Aif1l	232
+chr15	103359209	103372066	2_Pbx1mt_peak_6445_lociStitched	Itga5	Gpr84,Zfp385a	Itga5	233
+chr12	91055528	91070961	3_Pbx1mt_peak_3120_lociStitched, 2_MyoD_2d_MT_peak_3716_lociStitched	5430427M07Rik,Cep128	Mir669c	5430427M07Rik	234, 583
+chr16	24200240	24218596	10_Myog_60hr_MT_peak_16133_lociStitched, 3_MyoD_2d_MT_peak_6213_lociStitched			Lpp	235, 441
+chr11	100372810	100408913	7_Myog_60hr_MT_peak_7347_lociStitched	Leprel4,Jup	Nt5c3b,Klhl10,Gast,Fkbp10,Hap1	Jup	236
+chr6	54248759	54264749	5_MyoD_2d_MT_peak_12442_lociStitched	Chn2	Chn2	Chn2	236
+chr2	155265556	155294171	7_Myog_60hr_MT_peak_24220_lociStitched, 3_MyoD_2d_MT_peak_9291_lociStitched	Pigu,Map1lc3a	Dynlrb1,Map1lc3a	Map1lc3a	237, 375
+chr1	135763528	135779472	5_MyoD_2d_MT_peak_773_lociStitched	Phlda3	Csrp1,Lad1,Tnni1	Phlda3	238
+chr13	63245355	63253440	3_Myog_60hr_MT_peak_11238_lociStitched	2010111I01Rik	Mir27b,Mir23b,Mir3074-1,Gm16907,Mir24-1	Gm16907	238
+chr6	145855812	145872319	3_Myog_60hr_MT_peak_34231_lociStitched	Bhlhe41	Bhlhe41,Rassf8	Bhlhe41	239
+chr9	63642286	63665671	7_MyoD_2d_MT_peak_15180_lociStitched, 8_Myog_60hr_MT_peak_40731_lociStitched	Smad3	Iqch,Aagab	Aagab	241, 646
+chr13	112754957	112778719	5_Myog_60hr_MT_peak_11833_lociStitched, 2_Pbx1mt_peak_4398_lociStitched		Ppap2a	Ppap2a	242, 212
+chr1	92699030	92704307	6_Myog_60hr_MT_peak_1260_lociStitched, 2_Pbx1mt_peak_717_lociStitched			Otos	243, 347
+chr13	51880081	51902643	7_Myog_60hr_MT_peak_10933_lociStitched		Gadd45g	Gadd45g	244
+chr19	46517722	46524112	6_Myog_60hr_MT_peak_21386_lociStitched, 3_MyoD_2d_MT_peak_8171_lociStitched		Sfxn2,Arl3,Trim8	Trim8	246, 289
+chr15	25448984	25460160	2_Pbx1mt_peak_5299_lociStitched	Gm5468	Basp1	Gm5468	247
+chr19	47885359	47902647	8_Myog_60hr_MT_peak_21490_lociStitched, 3_MyoD_2d_MT_peak_8203_lociStitched	Gsto2,Itprip	Wdr96,Gsto1,Ccdc147	Itprip	247, 251
+chr4	123798084	123815477	3_MyoD_2d_MT_peak_10962_lociStitched, 5_Myog_60hr_MT_peak_28440_lociStitched	Rhbdl2	Akirin1	Rhbdl2	250, 589
+chr1	39746441	39754979	6_Myog_60hr_MT_peak_322_lociStitched, 4_MyoD_2d_MT_peak_124_lociStitched		Rfx8	Rfx8	252, 549
+chr11	88484266	88528855	11_Myog_60hr_MT_peak_6885_lociStitched	Msi2		Mir378b	253
+chr9	121293143	121346983	9_Myog_60hr_MT_peak_41828_lociStitched, 9_MyoD_2d_MT_peak_15646_lociStitched		Ulk4,Trak1	Ulk4	254, 69
+chr12	80366269	80380583	5_Myog_60hr_MT_peak_9281_lociStitched	Dcaf5	Mir1843,Scarna3b	Mir1843	256
+chr4	95659241	95681034	6_Pbx1mt_peak_11673_lociStitched	Fggy		Fggy	256
+chr4	89024143	89039300	4_Pbx1mt_peak_11629_lociStitched		Gm12603	Gm12603	261
+chr7	110732226	110754295	5_MyoD_2d_MT_peak_13591_lociStitched, 8_Myog_60hr_MT_peak_36294_lociStitched		Ampd3	Ampd3	261, 537
+chr17	70791629	70798102	4_Pbx1mt_peak_7463_lociStitched	Dlgap1	Tgif1	Tgif1	262
+chr4	109430907	109440166	6_Myog_60hr_MT_peak_28127_lociStitched, 2_MyoD_2d_MT_peak_10863_lociStitched	Ttc39a	Rnf11	Ttc39a	262, 404
+chr7	16002252	16052950	11_Myog_60hr_MT_peak_34434_lociStitched		Zfp541,Napa,Ehd2,Gltscr1	Gltscr1	263
+chr6	90686079	90711823	19_Myog_60hr_MT_peak_33314_lociStitched, 3_MyoD_2d_MT_peak_12641_lociStitched	Iqsec1		Iqsec1	264, 508
+chr8	110695406	110732100	11_Myog_60hr_MT_peak_38925_lociStitched	Mtss1l,Vac14		Mtss1l	265
+chr15	77784150	77820389	4_MyoD_2d_MT_peak_5784_lociStitched, 18_Myog_60hr_MT_peak_14488_lociStitched	Myh9	Apol8	Myh9	266, 7
+chr9	57598115	57637993	11_Myog_60hr_MT_peak_40503_lociStitched	Cplx3,Csk,Lman1l	Mpi,Cyp1a2,Cyp1a1,Ulk3,Scamp2	Lman1l	266
+chr4	46042579	46095787	16_Myog_60hr_MT_peak_27376_lociStitched, 4_MyoD_2d_MT_peak_10538_lociStitched	Tmod1	Ncbp1,Tstd2	Tmod1	267, 379
+chr10	96822328	96837649	6_Pbx1mt_peak_2356_lociStitched, 3_MyoD_2d_MT_peak_1947_lociStitched			4930556N09Rik	271, 461
+chr6	54749207	54771466	9_Myog_60hr_MT_peak_32808_lociStitched, 2_Pbx1mt_peak_13962_lociStitched		Znrf2	Znrf2	271, 459
+chr3	88138344	88150828	6_Myog_60hr_MT_peak_25809_lociStitched	Mef2d	1700113A16Rik	Mef2d	272
+chr15	38470811	38474871	2_MyoD_2d_MT_peak_5492_lociStitched		Azin1	Azin1	274
+chr6	128232061	128297384	16_Myog_60hr_MT_peak_34055_lociStitched	Tead4	Tead4,9330102E08Rik	Tead4	274
+chr6	128232061	128297384	16_Myog_60hr_MT_peak_34055_lociStitched	Tead4	Tead4,9330102E08Rik	Tead4	274
+chr6	91643474	91675066	11_Myog_60hr_MT_peak_33380_lociStitched, 4_MyoD_2d_MT_peak_12661_lociStitched		Slc6a6	Slc6a6	275, 451
+chr1	134265944	134307783	16_Myog_60hr_MT_peak_1697_lociStitched	Ppfia4,Myog	Adora1	Myog	276
+chr1	134265944	134307783	16_Myog_60hr_MT_peak_1697_lociStitched	Ppfia4,Myog	Adora1	Myog	276
+chr13	99259389	99262660	2_Pbx1mt_peak_4198_lociStitched, 2_MyoD_2d_MT_peak_4553_lociStitched			Zfp366	276, 446
+chr2	4414025	4455563	6_Myog_60hr_MT_peak_21741_lociStitched, 5_MyoD_2d_MT_peak_8322_lociStitched	Frmd4a		Frmd4a	279, 198
+chr11	11820842	11857293	8_Myog_60hr_MT_peak_5270_lociStitched, 5_MyoD_2d_MT_peak_2212_lociStitched	Ddc	1700042O10Rik,Fignl1	1700042O10Rik	280, 295
+chr4	136165034	136178405	3_MyoD_2d_MT_peak_11106_lociStitched, 4_Myog_60hr_MT_peak_28961_lociStitched	E2f2	Asap3,Id3	E2f2	281, 546
+chr4	126259172	126269590	4_Myog_60hr_MT_peak_28517_lociStitched, 3_MyoD_2d_MT_peak_10983_lociStitched	Trappc3	Col8a2,Map7d1	Trappc3	282, 150
+chr9	66265855	66281936	5_Myog_60hr_MT_peak_40837_lociStitched	Dapk2		Herc1	283
+chr8	123868962	123892135	10_Myog_60hr_MT_peak_39590_lociStitched	Acta1	Ccsap,Acta1	Acta1	284
+chr3	98024296	98046602	9_Myog_60hr_MT_peak_26137_lociStitched, 6_MyoD_2d_MT_peak_9984_lociStitched	Notch2		Notch2	285, 128
+chr5	36713151	36724578	4_Myog_60hr_MT_peak_30334_lociStitched		D5Ertd579e,Bloc1s4	D5Ertd579e	286
+chr15	95797413	95805521	5_Myog_60hr_MT_peak_15205_lociStitched, 2_MyoD_2d_MT_peak_5941_lociStitched	Ano6		Ano6	289, 182
+chr11	97397587	97442138	14_Myog_60hr_MT_peak_7125_lociStitched	Socs7	Gpr179,Arhgap23	Arhgap23	290
+chr1	73915100	73966848	13_Myog_60hr_MT_peak_716_lociStitched	Tns1		6030407O03Rik	291
+chr10	37335243	37342879	2_Pbx1mt_peak_1831_lociStitched, 2_MyoD_2d_MT_peak_1439_lociStitched			Marcks	291, 429
+chr10	27378360	27385014	2_Pbx1mt_peak_1766_lociStitched	Lama2		Lama2	292
+chr11	88551000	88559860	5_Myog_60hr_MT_peak_6896_lociStitched, 5_MyoD_2d_MT_peak_2759_lociStitched	Msi2		Msi2	294, 140
+chr6	113481016	113523690	9_Myog_60hr_MT_peak_33658_lociStitched	Prrt3,Il17rc,Emc3,Creld1	Fancd2,Il17re,Jagn1,Cidec	Prrt3	298
+chr1	176993808	177013979	9_Myog_60hr_MT_peak_2355_lociStitched, 2_Pbx1mt_peak_1304_lociStitched	Sdccag8		Hmga2-ps1	299, 496
+chr11	115945287	115963304	4_Myog_60hr_MT_peak_7941_lociStitched	Sap30bp	Smim6,Itgb4,Recql5,Smim5,Galk1	Itgb4	300
+chr10	98324670	98329216	2_Pbx1mt_peak_2372_lociStitched	Gm8633		Gm8633	302
+chr2	29700717	29717119	7_Myog_60hr_MT_peak_22235_lociStitched	Rapgef1	Gm13547	Gm13547	303
+chr9	114016100	114022532	4_Myog_60hr_MT_peak_41621_lociStitched, 2_MyoD_2d_MT_peak_15560_lociStitched	Fbxl2	Mir5128,Susd5	Fbxl2	304, 532
+chr19	6287115	6331529	11_Myog_60hr_MT_peak_20620_lociStitched	Cdc42bpg,Ehd1	Map4k2,Men1,Atg2a,Sf1,Mir192,Mir194-2	Cdc42bpg	307
+chr15	25914991	25916489	4_Myog_60hr_MT_peak_13477_lociStitched, 3_MyoD_2d_MT_peak_5406_lociStitched	Fam134b	Fam134b	Fam134b	309, 323
+chr2	128753263	128770808	4_MyoD_2d_MT_peak_9146_lociStitched	Mertk	Tmem87b	Tmem87b	309
+chr17	44026340	44031084	3_Pbx1mt_peak_7300_lociStitched	Rcan2	Enpp5	Enpp5	310
+chr6	125148215	125157508	12_Myog_60hr_MT_peak_33936_lociStitched, 4_MyoD_2d_MT_peak_12858_lociStitched	Iffo1	Ncapd2,Mrpl51,Nop2,Gapdh,Scarna10	Iffo1	310, 283
+chr11	104561092	104578329	3_MyoD_2d_MT_peak_2959_lociStitched, 5_Myog_60hr_MT_peak_7627_lociStitched	Myl4	Cdc27,Itgb3	Myl4	311, 543
+chr2	25533638	25542243	5_Myog_60hr_MT_peak_21986_lociStitched, 2_MyoD_2d_MT_peak_8430_lociStitched	Traf2	Lcn12,Gm996,Mamdc4,C8g,Fbxw5,Phpt1,Edf1	Traf2	311, 284
+chr4	152054519	152093146	21_Myog_60hr_MT_peak_29638_lociStitched, 7_MyoD_2d_MT_peak_11259_lociStitched	Nol9	Espn,Tnfrsf25,Zbtb48,Klhl21,Tas1r1,Plekhg5	Plekhg5	312, 203
+chr8	125271334	125293597	5_Myog_60hr_MT_peak_39668_lociStitched			Sipa1l2	313
+chr11	88105532	88119095	3_MyoD_2d_MT_peak_2741_lociStitched, 5_Myog_60hr_MT_peak_6852_lociStitched	Cuedc1	2210416O15Rik,Vezf1	Cuedc1	315, 618
+chr8	81730600	81896306	102_Pbx1mt_peak_16356_lociStitched	Inpp4b		Inpp4b	316
+chr8	81730600	81896306	102_Pbx1mt_peak_16356_lociStitched	Inpp4b		Inpp4b	316
+chr4	123588779	123625939	2_MyoD_2d_MT_peak_10955_lociStitched, 10_Pbx1mt_peak_11856_lociStitched	Macf1		Macf1	317, 12
+chr4	123588779	123625939	2_MyoD_2d_MT_peak_10955_lociStitched, 10_Pbx1mt_peak_11856_lociStitched	Macf1		Macf1	317, 12
+chr7	110784644	110809304	10_Myog_60hr_MT_peak_36301_lociStitched, 4_MyoD_2d_MT_peak_13596_lociStitched	Ampd3	Rnf141,Snord53	Ampd3	320, 157
+chr18	32380778	32398848	7_Myog_60hr_MT_peak_19423_lociStitched	Bin1	Bin1,A830052D11Rik	A830052D11Rik	321
+chr10	78287593	78306263	11_Myog_60hr_MT_peak_3969_lociStitched, 4_MyoD_2d_MT_peak_1746_lociStitched	Agpat3	Trappc10	Trappc10	322, 343
+chr6	116405224	116418823	6_Myog_60hr_MT_peak_33766_lociStitched, 3_MyoD_2d_MT_peak_12813_lociStitched	Alox5,March8		Alox5	325, 188
+chr6	91617710	91620773	5_Myog_60hr_MT_peak_33367_lociStitched, 4_MyoD_2d_MT_peak_12656_lociStitched			Slc6a6	327, 224
+chr15	101228132	101260829	11_Myog_60hr_MT_peak_15521_lociStitched	Grasp	A330009N23Rik,6030408B16Rik,9430023L20Rik,Nr4a1,AU021063	A330009N23Rik	328
+chr10	75091759	75121442	10_Myog_60hr_MT_peak_3813_lociStitched, 6_MyoD_2d_MT_peak_1693_lociStitched	Bcr		Bcr	329, 342
+chr18	67977876	67985759	2_MyoD_2d_MT_peak_7722_lociStitched	Ldlrad4		Ldlrad4	331
+chr9	61632690	61671313	8_Myog_60hr_MT_peak_40651_lociStitched			Rplp1	331
+chr1	20654343	20686231	9_Myog_60hr_MT_peak_104_lociStitched, 10_Pbx1mt_peak_91_lociStitched	Mir206,Mir133b	Il17a,Pkhd1	Mir206	339, 14
+chr8	13204552	13214179	9_Myog_60hr_MT_peak_37449_lociStitched, 3_MyoD_2d_MT_peak_13910_lociStitched		Grtp1,Lamp1,Mir1968,Adprhl1	Grtp1	340, 194
+chr11	30149037	30166505	6_Myog_60hr_MT_peak_5425_lociStitched, 3_MyoD_2d_MT_peak_2276_lociStitched	Sptbn1		Sptbn1	342, 490
+chr8	69935785	69939978	5_Myog_60hr_MT_peak_37993_lociStitched, 4_MyoD_2d_MT_peak_14162_lociStitched	Gatad2a	Cilp2,Tssk6,Ndufa13	Ndufa13	343, 191
+chr17	32012356	32023426	4_Myog_60hr_MT_peak_17993_lociStitched, 3_MyoD_2d_MT_peak_6946_lociStitched	Hsf2bp	Rrp1b	Hsf2bp	350, 322
+chr18	62036525	62050265	3_Pbx1mt_peak_8070_lociStitched, 4_Myog_60hr_MT_peak_19944_lociStitched			Sh3tc2	350, 917
+chr11	8678261	8704167	7_Myog_60hr_MT_peak_5248_lociStitched		Tns3	Tns3	351
+chr11	117912810	117950042	7_Myog_60hr_MT_peak_8134_lociStitched, 6_MyoD_2d_MT_peak_3151_lociStitched		Pgs1,Tha1,Socs3	Socs3	352, 44
+chr13	110632514	110644010	4_Pbx1mt_peak_4366_lociStitched			Plk2	353
+chr4	128997395	129020814	5_Myog_60hr_MT_peak_28560_lociStitched, 4_MyoD_2d_MT_peak_10997_lociStitched	Ak2	Adc,Rnf19b	Ak2	354, 205
+chr16	4497986	4551373	12_Myog_60hr_MT_peak_15672_lociStitched	Srl,Tfap4	Glis2	Srl	358
+chr9	66205820	66251370	6_MyoD_2d_MT_peak_15219_lociStitched, 16_Myog_60hr_MT_peak_40824_lociStitched	Dapk2		Dapk2	358, 109
+chr9	66205820	66251370	6_MyoD_2d_MT_peak_15219_lociStitched, 16_Myog_60hr_MT_peak_40824_lociStitched	Dapk2		Dapk2	358, 109
+chr1	156990227	157005022	9_Myog_60hr_MT_peak_2088_lociStitched, 3_MyoD_2d_MT_peak_905_lociStitched			Ralgps2	359, 380
+chr1	177623264	177646459	5_Myog_60hr_MT_peak_2375_lociStitched, 3_MyoD_2d_MT_peak_1054_lociStitched	2310043L19Rik		2310043L19Rik	360, 160
+chr2	49730369	49750320	3_Myog_60hr_MT_peak_22761_lociStitched, 4_MyoD_2d_MT_peak_8650_lociStitched	Kif5c	Lypd6b	Lypd6b	362, 292
+chr4	53757154	53760032	2_Pbx1mt_peak_11273_lociStitched, 2_MyoD_2d_MT_peak_10572_lociStitched	Fktn	Tal2	Tal2	363, 522
+chr7	6747762	6765586	8_Myog_60hr_MT_peak_34396_lociStitched, 3_Pbx1mt_peak_14408_lociStitched	Usp29	Mir3099,Peg3as,Peg3	Usp29	363, 371
+chr15	59047928	59071661	10_Myog_60hr_MT_peak_14010_lociStitched, 5_MyoD_2d_MT_peak_5619_lociStitched	Mtss1	Mtss1	Mtss1	364, 249
+chr8	124630527	124652744	8_Myog_60hr_MT_peak_39633_lociStitched	2310022B05Rik		2310022B05Rik	365
+chr3	138097824	138105361	2_Pbx1mt_peak_10925_lociStitched, 3_Myog_60hr_MT_peak_26721_lociStitched	Mttp	Gm5105,Trmt10a	Mttp	366, 921
+chr1	193330309	193347182	4_Myog_60hr_MT_peak_2846_lociStitched, 3_MyoD_2d_MT_peak_1233_lociStitched	Camk1g,Lamb3		Camk1g	367, 271
+chr15	27570501	27595927	9_Myog_60hr_MT_peak_13517_lociStitched	Ank	Fam105b	Fam105b	368
+chr15	27570501	27595927	9_Myog_60hr_MT_peak_13517_lociStitched	Ank	Fam105b	Fam105b	368
+chr4	149820568	149856697	10_Myog_60hr_MT_peak_29495_lociStitched		Slc25a33	Slc25a33	370
+chr15	80052107	80075604	8_Myog_60hr_MT_peak_14708_lociStitched		Pdgfb,Snord43,Syngr1,Rpl3,Snord83b	Snord83b	371
+chr19	41993615	42018172	2_MyoD_2d_MT_peak_8124_lociStitched, 7_Myog_60hr_MT_peak_21229_lociStitched	Ubtd1	Mms19,Ankrd2,Hoga1,4933411K16Rik	Ubtd1	372, 129
+chr11	103227428	103246725	12_Myog_60hr_MT_peak_7562_lociStitched, 3_MyoD_2d_MT_peak_2946_lociStitched	Map3k14	1700023F06Rik,Spata32	Spata32	374, 531
+chr11	102984622	103003663	11_Myog_60hr_MT_peak_7523_lociStitched, 3_MyoD_2d_MT_peak_2937_lociStitched	Dcakd	Nmt1,2410004I01Rik,C1ql1	Dcakd	375, 253
+chr2	52319020	52335334	5_Pbx1mt_peak_8981_lociStitched	Neb	4930573O16Rik	Neb	376
+chr11	5009769	5016596	2_MyoD_2d_MT_peak_2152_lociStitched, 2_Myog_60hr_MT_peak_5108_lociStitched	Ap1b1	Rasl10a,Gas2l1	Ap1b1	378, 741
+chr17	29409711	29440336	10_Myog_60hr_MT_peak_17866_lociStitched		Fgd2	Fgd2	378
+chr17	29409711	29440336	10_Myog_60hr_MT_peak_17866_lociStitched		Fgd2	Fgd2	378
+chr10	23596669	23620495	7_Pbx1mt_peak_1718_lociStitched			Snora33	380
+chr5	125226239	125254259	7_Myog_60hr_MT_peak_31609_lociStitched, 6_MyoD_2d_MT_peak_11994_lociStitched		Ncor2	Ncor2	380, 175
+chr1	40833591	40842622	2_Myog_60hr_MT_peak_352_lociStitched, 3_MyoD_2d_MT_peak_141_lociStitched	Tmem182	Mfsd9	Tmem182	381, 123
+chr1	53845887	53857061	4_Pbx1mt_peak_308_lociStitched, 3_Myog_60hr_MT_peak_447_lociStitched	Hecw2		Stk17b	382, 326
+chr8	120243986	120323510	31_Myog_60hr_MT_peak_39160_lociStitched			Fam92b	382
+chr11	69356653	69384171	10_Myog_60hr_MT_peak_6235_lociStitched	Chd3	A030009H04Rik,Kcnab3,Cntrob,Trappc1,Tmem88,Kdm6b,Cyb5d1,Lsmd1	Chd3	383
+chr7	73352250	73372673	6_Myog_60hr_MT_peak_35606_lociStitched	A730056A06Rik	Rgma	Rgma	387
+chr15	79984054	80028264	14_Myog_60hr_MT_peak_14701_lociStitched	Pdgfb		Pdgfb	389
+chr10	81406535	81434087	21_Myog_60hr_MT_peak_4247_lociStitched	Nfic	Mfsd12,Fzr1,2210404O07Rik,Dohh,4930404N11Rik,Celf5	Nfic	390
+chr13	4771066	4772765	2_Pbx1mt_peak_3294_lociStitched			Akr1e1	391
+chr3	99811291	99823619	3_Pbx1mt_peak_10591_lociStitched			Spag17	394
+chr7	74442708	74458671	5_Myog_60hr_MT_peak_35648_lociStitched, 3_MyoD_2d_MT_peak_13351_lociStitched	Slco3a1		Slco3a1	399, 263
+chr2	77177632	77200698	4_Myog_60hr_MT_peak_23122_lociStitched	Sestd1	Ccdc141	Ccdc141	401
+chr11	68022964	68049614	3_MyoD_2d_MT_peak_2524_lociStitched, 6_Myog_60hr_MT_peak_6185_lociStitched	Stx8		Stx8	402, 620
+chr18	61609784	61633805	7_Myog_60hr_MT_peak_19900_lociStitched, 4_MyoD_2d_MT_peak_7670_lociStitched		Gm20748,Mir145,Mir143,Mir143hg	Gm20748	407, 280
+chr4	95611342	95621398	2_MyoD_2d_MT_peak_10788_lociStitched, 2_Myog_60hr_MT_peak_27901_lociStitched	Fggy		Fggy	407, 762
+chr10	84997857	85013756	3_Pbx1mt_peak_2198_lociStitched, 5_Myog_60hr_MT_peak_4407_lociStitched	Ric8b		Ric8b	409, 994
+chr19	56367806	56374247	4_Myog_60hr_MT_peak_21610_lociStitched, 3_MyoD_2d_MT_peak_8256_lociStitched	Nrap	Casp7,Nrap	Nrap	410, 385
+chr10	115328596	115332861	2_MyoD_2d_MT_peak_2009_lociStitched, 2_Pbx1mt_peak_2476_lociStitched		Tmem19,Rab21	Rab21	411, 285
+chr15	10917816	10942167	5_Myog_60hr_MT_peak_13386_lociStitched, 10_Pbx1mt_peak_5204_lociStitched		C1qtnf3,Amacr	C1qtnf3	414, 55
+chr8	80804197	80815677	2_Pbx1mt_peak_16198_lociStitched	Gab1		Smarca5	420
+chr2	7089042	7090854	2_Pbx1mt_peak_8700_lociStitched, 2_MyoD_2d_MT_peak_8355_lociStitched	Celf2	Celf2	Celf2	422, 621
+chr5	103766539	103790180	4_Myog_60hr_MT_peak_30905_lociStitched	Aff1		Aff1	422
+chr5	103766539	103790180	4_Myog_60hr_MT_peak_30905_lociStitched	Aff1		Aff1	422
+chr11	30235322	30268223	9_Myog_60hr_MT_peak_5436_lociStitched, 2_MyoD_2d_MT_peak_2281_lociStitched		Sptbn1	Sptbn1	426, 598
+chr18	39240572	39251231	2_Pbx1mt_peak_7874_lociStitched	Arhgap26		Nr3c1	426
+chr16	23497466	23502845	3_Pbx1mt_peak_6596_lociStitched	Masp1		Masp1	429
+chr4	140601054	140637133	17_Myog_60hr_MT_peak_29178_lociStitched	Arhgef10l		Arhgef10l	429
+chr4	140601054	140637133	17_Myog_60hr_MT_peak_29178_lociStitched	Arhgef10l		Arhgef10l	429
+chr6	82747164	82754116	5_Myog_60hr_MT_peak_33022_lociStitched, 2_MyoD_2d_MT_peak_12561_lociStitched	Hk2		Hk2	432, 620
+chr9	58266697	58275639	2_MyoD_2d_MT_peak_15106_lociStitched, 2_Pbx1mt_peak_18455_lociStitched		Loxl1,Pml,Stoml1	Stoml1	435, 604
+chr7	90332835	90341933	2_Pbx1mt_peak_14728_lociStitched, 2_MyoD_2d_MT_peak_13476_lociStitched		Sytl2	Sytl2	436, 217
+chr1	135466435	135491300	7_Myog_60hr_MT_peak_1771_lociStitched	Nav1	Ipo9	Ipo9	437
+chr19	5809085	5850436	3_MyoD_2d_MT_peak_7899_lociStitched, 11_Myog_60hr_MT_peak_20571_lociStitched	Neat1	Slc25a45,Frmd8,Scyl1,Tigd3,Malat1	Neat1	437, 1
+chr19	46177138	46192320	3_MyoD_2d_MT_peak_8160_lociStitched, 4_Pbx1mt_peak_8558_lociStitched	Gbf1	Elovl3,Pitx3	Gbf1	438, 301
+chr15	81120221	81128517	3_MyoD_2d_MT_peak_5843_lociStitched, 4_Myog_60hr_MT_peak_14767_lociStitched	Mkl1	Mkl1	Mkl1	443, 839
+chr13	9310902	9354092	5_Myog_60hr_MT_peak_10233_lociStitched, 5_Pbx1mt_peak_3337_lociStitched	Dip2c		Dip2c	444, 580
+chr9	49893473	49926160	4_Pbx1mt_peak_18385_lociStitched, 4_MyoD_2d_MT_peak_15032_lociStitched			Ncam1	445, 285
+chr9	49893473	49926160	4_Pbx1mt_peak_18385_lociStitched, 4_MyoD_2d_MT_peak_15032_lociStitched			Ncam1	445, 285
+chr15	27932056	27960012	2_Pbx1mt_peak_5361_lociStitched, 7_Myog_60hr_MT_peak_13530_lociStitched	Trio		Trio	446, 960
+chr8	14986732	15003807	8_Myog_60hr_MT_peak_37500_lociStitched, 6_MyoD_2d_MT_peak_13937_lociStitched	Arhgef10	Kbtbd11,BB014433	Kbtbd11	447, 207
+chr6	72106353	72112979	6_Myog_60hr_MT_peak_32929_lociStitched, 2_MyoD_2d_MT_peak_12518_lociStitched	St3gal5	St3gal5,4933431G14Rik	St3gal5	448, 582
+chr11	84057536	84077325	5_Myog_60hr_MT_peak_6746_lociStitched	Dusp14		Dusp14	450
+chr17	45848234	45873815	8_Myog_60hr_MT_peak_18257_lociStitched			1600014C23Rik	451
+chr7	30008043	30010853	4_Myog_60hr_MT_peak_34890_lociStitched, 3_MyoD_2d_MT_peak_13137_lociStitched	Zfp568	Zfp14,Zfp568	Zfp568	452, 210
+chr12	79856594	79865465	2_MyoD_2d_MT_peak_3585_lociStitched, 4_Myog_60hr_MT_peak_9232_lociStitched			Zfp36l1	456, 957
+chr6	149333179	149366115	3_Pbx1mt_peak_14389_lociStitched, 5_Myog_60hr_MT_peak_34322_lociStitched	2810474O19Rik	Bicd1	2810474O19Rik	456, 686
+chr6	140535522	140551169	3_Myog_60hr_MT_peak_34174_lociStitched	Plekha5		Aebp2	459
+chr9	119628734	119639386	4_MyoD_2d_MT_peak_15619_lociStitched	Scn10a	Scn5a	Scn5a	460
+chr13	28410296	28418611	3_Pbx1mt_peak_3539_lociStitched, 2_MyoD_2d_MT_peak_4007_lociStitched			Prl5a1	464, 416
+chr2	160603118	160621455	6_Myog_60hr_MT_peak_24377_lociStitched, 5_MyoD_2d_MT_peak_9342_lociStitched		Top1	Top1	465, 222
+chr10	66899887	66942262	5_Myog_60hr_MT_peak_3694_lociStitched			Reep3	472
+chr4	55172485	55179859	2_Pbx1mt_peak_11290_lociStitched			Rad23b	473
+chr4	45506729	45525037	6_Myog_60hr_MT_peak_27347_lociStitched	Shb		Shb	474
+chr11	46062215	46073355	5_Myog_60hr_MT_peak_5573_lociStitched, 4_MyoD_2d_MT_peak_2337_lociStitched	Adam19		Adam19	475, 401
+chr15	83571631	83583227	9_Myog_60hr_MT_peak_14905_lociStitched, 3_MyoD_2d_MT_peak_5878_lociStitched	Ttll12,Tspo	Bik,Mcat	Tspo	478, 406
+chr15	7921237	7931886	3_Myog_60hr_MT_peak_13348_lociStitched, 2_Pbx1mt_peak_5168_lociStitched	Wdr70		Gdnf	481, 413
+chr8	13665621	13673565	4_Myog_60hr_MT_peak_37468_lociStitched, 3_MyoD_2d_MT_peak_13919_lociStitched	Rasa3	4932443I19Rik	Rasa3	482, 587
+chr3	138049504	138070231	3_Pbx1mt_peak_10921_lociStitched, 5_Myog_60hr_MT_peak_26714_lociStitched	Gm5105		Gm5105	484, 346
+chr5	139196960	139225520	5_Myog_60hr_MT_peak_31896_lociStitched	Sun1	Get4,Heatr2	Sun1	487
+chr15	83154397	83169885	11_Myog_60hr_MT_peak_14861_lociStitched	Cyb5r3	Rnu12,Poldip3,Rrp7a	Cyb5r3	488
+chr12	84174157	84198467	7_Myog_60hr_MT_peak_9390_lociStitched, 4_MyoD_2d_MT_peak_3641_lociStitched	Elmsan1	Pnma1	Elmsan1	489, 233
+chr3	152143012	152149919	3_Pbx1mt_peak_11036_lociStitched	Gipc2	Dnajb4	Gipc2	489
+chr11	102615689	102644155	5_Myog_60hr_MT_peak_7507_lociStitched	2810433D01Rik	Fzd2,Gm1564,Gm11627	2810433D01Rik	492
+chr13	103976402	103978752	2_Pbx1mt_peak_4289_lociStitched			Erbb2ip	494
+chr8	95374546	95422465	10_Myog_60hr_MT_peak_38697_lociStitched	Gtl3	Mmp15,Zfp319,Usb1	Gtl3	494
+chr8	95374546	95422465	10_Myog_60hr_MT_peak_38697_lociStitched	Gtl3	Mmp15,Zfp319,Usb1	Gtl3	494
+chr6	112848816	112879557	7_Myog_60hr_MT_peak_33624_lociStitched	Srgap3		Srgap3	495
+chr3	95692772	95702352	2_Pbx1mt_peak_10549_lociStitched, 5_Myog_60hr_MT_peak_26011_lociStitched		Mcl1,Ecm1,Adamtsl4	Adamtsl4	497, 428
+chr14	20805049	20806815	2_MyoD_2d_MT_peak_4753_lociStitched, 4_Myog_60hr_MT_peak_12034_lociStitched		Camk2g,Plau	Camk2g	499, 933
+chr2	71644103	71667990	7_Myog_60hr_MT_peak_23003_lociStitched			Gm1631	500
+chr12	3316080	3323498	2_Pbx1mt_peak_2587_lociStitched		Rab10,Kif3c	Rab10	503
+chr7	67459513	67500703	7_Myog_60hr_MT_peak_35517_lociStitched			Mef2a	506
+chr2	72308958	72321033	3_Myog_60hr_MT_peak_23031_lociStitched, 2_Pbx1mt_peak_9119_lociStitched	B230120H23Rik		B230120H23Rik	507, 384
+chr6	146899667	146909245	3_Pbx1mt_peak_14363_lociStitched	Ppfibp1	Smco2,1700034J05Rik	Ppfibp1	507
+chr11	103375328	103409271	6_Myog_60hr_MT_peak_7581_lociStitched	Plekhm1	Gm11648,Arhgap27	Plekhm1	514
+chr5	151069592	151074510	2_Pbx1mt_peak_13634_lociStitched	Stard13		Stard13	514
+chr17	46266153	46277914	6_Myog_60hr_MT_peak_18302_lociStitched	Tjap1	Tjap1,Lrrc73,Abcc10,Mir693,Dlk2,Polr1c,Yipf3	Tjap1	515
+chr17	46266153	46277914	6_Myog_60hr_MT_peak_18302_lociStitched	Tjap1	Tjap1,Lrrc73,Abcc10,Mir693,Dlk2,Polr1c,Yipf3	Tjap1	515
+chr2	126039415	126065186	5_Pbx1mt_peak_9527_lociStitched	Fgf7,Fam227b		Fgf7	515
+chr2	77102540	77127231	2_Pbx1mt_peak_9159_lociStitched, 6_Myog_60hr_MT_peak_23118_lociStitched	Ccdc141		Ccdc141	516, 628
+chr11	32374672	32398771	5_Myog_60hr_MT_peak_5497_lociStitched	Sh3pxd2b		Sh3pxd2b	517
+chr11	32374672	32398771	5_Myog_60hr_MT_peak_5497_lociStitched	Sh3pxd2b		Sh3pxd2b	517
+chr5	65086641	65096382	5_Pbx1mt_peak_13218_lociStitched		Klhl5	Klhl5	518
+chr10	111719680	111725387	2_MyoD_2d_MT_peak_2001_lociStitched			4933440J02Rik	519
+chr15	59091002	59109467	8_Myog_60hr_MT_peak_14028_lociStitched, 4_MyoD_2d_MT_peak_5623_lociStitched		Mtss1	Mtss1	519, 245
+chr11	119856036	119891681	5_Myog_60hr_MT_peak_8313_lociStitched	Rptor	Chmp6,A430071A18Rik	A430071A18Rik	520
+chr15	38709426	38714649	2_MyoD_2d_MT_peak_5497_lociStitched		Atp6v1c1	Atp6v1c1	520
+chr5	96036235	96039960	4_Myog_60hr_MT_peak_30796_lociStitched, 2_Pbx1mt_peak_13364_lociStitched			Cxcl13	521, 538
+chr7	109707458	109716370	2_Pbx1mt_peak_14782_lociStitched, 5_Myog_60hr_MT_peak_36247_lociStitched	Akip1,BC051019	Ascl3,Tmem9b	Akip1	524, 405
+chr1	184663413	184675965	3_MyoD_2d_MT_peak_1134_lociStitched, 2_Myog_60hr_MT_peak_2616_lociStitched		4930488B22Rik	4930488B22Rik	526, 972
+chr19	5928171	5944512	6_Myog_60hr_MT_peak_20582_lociStitched, 3_MyoD_2d_MT_peak_7907_lociStitched	Pola2	Cdc42ep2,Slc25a45,Dpf2,Tigd3,Slc22a20	Cdc42ep2	527, 488
+chr9	9180767	9199085	4_Pbx1mt_peak_18101_lociStitched	Arhgap42	Gm16833	Gm16833	527
+chr7	110619067	110654652	7_Myog_60hr_MT_peak_36280_lociStitched	Adm	Sbf2	Adm	528
+chr1	131419418	131461202	5_Myog_60hr_MT_peak_1544_lociStitched, 6_Pbx1mt_peak_845_lociStitched	Srgap2		Srgap2	530, 98
+chr3	79978312	79990761	3_Pbx1mt_peak_10369_lociStitched			Fam198b	531
+chr10	98629293	98638494	2_Pbx1mt_peak_2379_lociStitched			Atp2b1	537
+chr10	7111490	7150137	3_Pbx1mt_peak_1535_lociStitched, 9_Myog_60hr_MT_peak_2921_lociStitched	Cnksr3		Cnksr3	542, 95
+chr12	54252137	54293598	10_Myog_60hr_MT_peak_8927_lociStitched		Egln3	Egln3	542
+chr11	59628307	59640506	5_Myog_60hr_MT_peak_5944_lociStitched, 3_MyoD_2d_MT_peak_2449_lociStitched		Olfr225,Mprip,Olfr223	Olfr225	544, 540
+chr6	72139890	72155242	7_Myog_60hr_MT_peak_32939_lociStitched, 4_MyoD_2d_MT_peak_12523_lociStitched	St3gal5	St3gal5,4933431G14Rik	4933431G14Rik	549, 447
+chr5	142412746	142452611	8_Myog_60hr_MT_peak_32015_lociStitched	Foxk1	Ap5z1	Foxk1	550
+chr11	78153395	78173159	6_Myog_60hr_MT_peak_6584_lociStitched	Fam222b,Traf4,Nek8	Rpl23a,Snord42a,Snord42b,Rab34,Snord4a,Tlcd1,Proca1	Traf4	551
+chr13	46507962	46534772	13_Myog_60hr_MT_peak_10781_lociStitched, 3_Pbx1mt_peak_3814_lociStitched	Cap2		Cap2	552, 568
+chr5	81068986	81074331	3_Pbx1mt_peak_13279_lociStitched	Lphn3		Lphn3	552
+chr19	40429095	40433818	4_Myog_60hr_MT_peak_21179_lociStitched, 2_MyoD_2d_MT_peak_8114_lociStitched	Sorbs1	Sorbs1	Sorbs1	554, 465
+chr5	123975901	124007515	11_Myog_60hr_MT_peak_31501_lociStitched	Hip1r,Vps37b	Ccdc62	Hip1r	555
+chr16	87567517	87574466	5_Myog_60hr_MT_peak_16696_lociStitched, 2_MyoD_2d_MT_peak_6519_lociStitched	Map3k7cl		Map3k7cl	557, 448
+chr3	97925412	97942700	3_Myog_60hr_MT_peak_26122_lociStitched, 4_MyoD_2d_MT_peak_9976_lociStitched	Gm5544	Sec22b,Pde4dip	Gm5544	558, 270
+chr1	16996623	17008158	3_Pbx1mt_peak_65_lociStitched	Jph1		Jph1	561
+chr6	67102511	67115767	2_MyoD_2d_MT_peak_12492_lociStitched, 3_Myog_60hr_MT_peak_32881_lociStitched			Gadd45a	563, 796
+chr8	77487850	77492660	3_MyoD_2d_MT_peak_14216_lociStitched	Arhgap10	0610038B21Rik	0610038B21Rik	565
+chr10	84335487	84402334	4_Pbx1mt_peak_2192_lociStitched, 17_Myog_60hr_MT_peak_4373_lociStitched	Nuak1		Nuak1	570, 627
+chr10	84335487	84402334	4_Pbx1mt_peak_2192_lociStitched, 17_Myog_60hr_MT_peak_4373_lociStitched	Nuak1		Nuak1	570, 627
+chr10	13983012	14000620	4_Myog_60hr_MT_peak_2996_lociStitched	Hivep2		Hivep2	571
+chr4	123034946	123036781	3_Pbx1mt_peak_11842_lociStitched	Trit1	Mycl1	Trit1	571
+chr18	5380705	5396308	6_Myog_60hr_MT_peak_19151_lociStitched, 4_MyoD_2d_MT_peak_7367_lociStitched		Zfp438	Zfp438	573, 381
+chr2	112423416	112445738	7_Myog_60hr_MT_peak_23504_lociStitched, 5_Pbx1mt_peak_9340_lociStitched		Emc7,Chrm5,Katnbl1,Aven	Emc7	576, 197
+chr1	86487243	86522733	8_Myog_60hr_MT_peak_960_lociStitched		Ptma	Ptma	578
+chr11	119607621	119643660	7_Myog_60hr_MT_peak_8283_lociStitched	Rptor		Rptor	583
+chr17	66364401	66378481	6_Myog_60hr_MT_peak_18657_lociStitched	Soga2		Soga2	585
+chr17	65701380	65704090	3_MyoD_2d_MT_peak_7132_lociStitched	Rab31		Txndc2	586
+chr18	20801891	20812468	4_Pbx1mt_peak_7756_lociStitched			B4galt6	586
+chr19	3923446	3926642	3_Myog_60hr_MT_peak_20408_lociStitched, 2_MyoD_2d_MT_peak_7857_lociStitched	Aldh3b1	Unc93b1,Ndufs8,Tcirg1,1700055N04Rik,Aldh3b2	Aldh3b1	586, 306
+chr2	33189207	33207394	6_Myog_60hr_MT_peak_22530_lociStitched	Ralgps1	Angptl2	Angptl2	587
+chr10	80937685	80969776	11_Myog_60hr_MT_peak_4170_lociStitched	Gng7	Lmnb2,Gadd45b,Timm13	Gadd45b	590
+chr4	82164127	82168364	3_Pbx1mt_peak_11523_lociStitched			Gm5860	590
+chr17	44647931	44654749	2_Pbx1mt_peak_7311_lociStitched	Runx2		Runx2	595
+chr1	89108305	89130708	4_Myog_60hr_MT_peak_1054_lociStitched	Sh3bp4		Sh3bp4	596
+chr9	72205898	72220220	4_MyoD_2d_MT_peak_15315_lociStitched, 6_Pbx1mt_peak_18571_lociStitched			Zfp280d	596, 442
+chr2	173243261	173265115	7_Myog_60hr_MT_peak_24826_lociStitched, 3_MyoD_2d_MT_peak_9475_lociStitched	Pmepa1	Zbp1	Pmepa1	597, 439
+chr4	107003889	107018740	10_Myog_60hr_MT_peak_28050_lociStitched, 4_MyoD_2d_MT_peak_10846_lociStitched	Ssbp3	Mrpl37	Mrpl37	598, 483
+chr1	63190898	63199688	2_Pbx1mt_peak_413_lociStitched	Gpr1	Eef1b2,Snora41,Ndufs1	Snora41	599
+chr15	84235647	84260249	8_Myog_60hr_MT_peak_14927_lociStitched	Parvb	Samm50	Parvb	600
+chr7	109628931	109637650	2_Myog_60hr_MT_peak_36244_lociStitched, 2_MyoD_2d_MT_peak_13577_lociStitched		St5	St5	602, 389
+chr17	86937772	86973667	10_Myog_60hr_MT_peak_19028_lociStitched	Rhoq,Atp6v1e2	Tmem247	Rhoq	608
+chr10	59623562	59642664	3_Myog_60hr_MT_peak_3501_lociStitched, 2_Pbx1mt_peak_2012_lociStitched		Mcu	Mcu	609, 498
+chr7	16357546	16365545	3_Pbx1mt_peak_14415_lociStitched	Sae1	Bbc3,Zc3h4	Sae1	611
+chr10	58341832	58359422	2_MyoD_2d_MT_peak_1551_lociStitched, 3_Pbx1mt_peak_1990_lociStitched	Lims1	Lims1	Lims1	612, 598
+chr18	5919784	5945619	7_Myog_60hr_MT_peak_19182_lociStitched			Arhgap12	612
+chr13	103239536	103247516	2_Pbx1mt_peak_4282_lociStitched	Mast4		Mast4	613
+chr5	134951583	134960931	3_Myog_60hr_MT_peak_31717_lociStitched		Abhd11,Wbscr27,Cldn4,Cldn3,Wbscr25,Cldn13,Wbscr28	Cldn4	613
+chr13	60002161	60012939	7_Myog_60hr_MT_peak_11184_lociStitched, 2_Pbx1mt_peak_3885_lociStitched		A530065N20Rik	A530065N20Rik	614, 270
+chr11	61014238	61063494	19_Myog_60hr_MT_peak_6023_lociStitched, 5_MyoD_2d_MT_peak_2471_lociStitched	Kcnj12	Kcnj12	Kcnj12	615, 427
+chr16	10331247	10380017	15_Myog_60hr_MT_peak_15778_lociStitched	Tekt5	Emp2,Nubp1	Tekt5	621
+chr1	92676486	92683703	4_MyoD_2d_MT_peak_550_lociStitched		Myeov2,Otos	Otos	623
+chr4	149975409	150012406	11_Myog_60hr_MT_peak_29521_lociStitched	H6pd	Spsb1	H6pd	623
+chr13	31465223	31474364	5_Pbx1mt_peak_3614_lociStitched			Foxq1	625
+chr7	84015170	84033231	5_Myog_60hr_MT_peak_35879_lociStitched	9930013L23Rik		9930013L23Rik	625
+chr3	68608827	68610445	4_Myog_60hr_MT_peak_25635_lociStitched, 2_MyoD_2d_MT_peak_9799_lociStitched	Schip1,Gm21949		Schip1	629, 622
+chr16	94533217	94544746	6_Myog_60hr_MT_peak_16886_lociStitched		Dyrk1a,Dscr3	Dscr3	630
+chr5	21519274	21529374	3_MyoD_2d_MT_peak_11379_lociStitched, 2_Pbx1mt_peak_13006_lociStitched	Fbxl13	Lrrc17	Lrrc17	630, 325
+chr16	43574287	43592358	2_MyoD_2d_MT_peak_6390_lociStitched, 4_Myog_60hr_MT_peak_16497_lociStitched	Zbtb20	Mir568	Mir568	632, 308
+chr16	24231563	24238538	4_MyoD_2d_MT_peak_6215_lociStitched			Lpp	634
+chr2	158049406	158066744	4_Pbx1mt_peak_9758_lociStitched	Rprd1b	Tti1,2010009K17Rik	Rprd1b	637
+chr12	102285991	102305676	11_Myog_60hr_MT_peak_9731_lociStitched, 4_MyoD_2d_MT_peak_3774_lociStitched	Rin3		Rin3	638, 386
+chr15	61240359	61244816	3_Pbx1mt_peak_5963_lociStitched			A1bg	639
+chr6	89859851	89864140	2_Pbx1mt_peak_14091_lociStitched		Vmn1r44,Vmn1r43,Vmn1r42	Vmn1r43	641
+chr10	118640207	118649257	3_Pbx1mt_peak_2499_lociStitched			Ifng	644
+chr2	152901424	152914727	6_Myog_60hr_MT_peak_24140_lociStitched	Mylk2	Ttll9,Foxs1,Dusp15	Mylk2	650
+chr5	136522947	136532318	3_Pbx1mt_peak_13563_lociStitched	Cux1		Cux1	650
+chr13	30186585	30199881	4_Myog_60hr_MT_peak_10437_lociStitched	Mboat1		Mboat1	652
+chr12	85602229	85607802	3_Myog_60hr_MT_peak_9473_lociStitched	Jdp2		Jdp2	655
+chr11	5168544	5197456	14_Myog_60hr_MT_peak_5124_lociStitched, 4_MyoD_2d_MT_peak_2158_lociStitched	Kremen1	Emid1	Emid1	657, 599
+chr9	120519043	120532346	5_Myog_60hr_MT_peak_41786_lociStitched		Rpl14,Eif1b,5830454E08Rik,Entpd3	Entpd3	659
+chr8	61185320	61194639	3_Myog_60hr_MT_peak_37913_lociStitched		Sh3rf1	Sh3rf1	661
+chr14	22608754	22651494	7_Pbx1mt_peak_4572_lociStitched	1700112E06Rik		4930405A10Rik	662
+chr11	76487139	76497907	6_Myog_60hr_MT_peak_6511_lociStitched	Abr		Abr	665
+chr3	55191675	55195377	5_Myog_60hr_MT_peak_25467_lociStitched, 3_Pbx1mt_peak_10206_lociStitched	Sohlh2	Dclk1	Sohlh2	666, 587
+chr11	94133346	94145334	6_Myog_60hr_MT_peak_6977_lociStitched			Tob1	672
+chr5	21144480	21148608	2_Myog_60hr_MT_peak_29914_lociStitched, 2_MyoD_2d_MT_peak_11365_lociStitched		Pion	Pion	675, 353
+chr8	72566044	72589566	8_Myog_60hr_MT_peak_38195_lociStitched	Tmem38a,Smim7	Med26	Tmem38a	676
+chr11	55005146	55027448	4_Myog_60hr_MT_peak_5814_lociStitched	Anxa6	Tnip1,Anxa6	Anxa6	678
+chr14	76947261	76959175	4_Myog_60hr_MT_peak_13054_lociStitched, 5_Pbx1mt_peak_4901_lociStitched			Lacc1	681, 440
+chr7	48870161	48888193	5_Myog_60hr_MT_peak_35287_lociStitched, 3_MyoD_2d_MT_peak_13220_lociStitched	E2f8	Csrp3	E2f8	692, 573
+chr9	84178534	84184279	2_Pbx1mt_peak_18653_lociStitched			Bckdhb	692
+chr1	53808845	53824462	3_Pbx1mt_peak_307_lociStitched	Hecw2	Stk17b	Stk17b	693
+chr13	29737853	29746867	2_Pbx1mt_peak_3586_lociStitched	Cdkal1		Cdkal1	696
+chr1	90148308	90164778	7_Myog_60hr_MT_peak_1115_lociStitched, 4_MyoD_2d_MT_peak_486_lociStitched	Iqca	Cxcr7	Iqca	698, 597
+chr15	97089593	97105145	3_Myog_60hr_MT_peak_15260_lociStitched		Slc38a4	Slc38a4	702
+chr7	74391347	74417459	6_Myog_60hr_MT_peak_35641_lociStitched	Slco3a1		Slco3a1	703
+chr15	78503954	78512313	5_Myog_60hr_MT_peak_14553_lociStitched		Tmprss6,Sstr3,Il2rb,C1qtnf6	Il2rb	708
+chr2	102112017	102142627	11_Myog_60hr_MT_peak_23392_lociStitched	Ldlrad3		Ldlrad3	714
+chr11	8532824	8557460	4_Myog_60hr_MT_peak_5238_lociStitched, 4_MyoD_2d_MT_peak_2193_lociStitched	Tns3		Tns3	722, 552
+chr17	12745362	12760635	7_Myog_60hr_MT_peak_17271_lociStitched	Airn,Igf2r		Airn	724
+chr4	124696103	124709273	4_Myog_60hr_MT_peak_28452_lociStitched	Fhl3	Utp11l,Mir698,Inpp5b,Sf3a3,Pou3f1,Mir697	Fhl3	725
+chr15	25948295	25963847	2_Myog_60hr_MT_peak_13482_lociStitched, 2_Pbx1mt_peak_5314_lociStitched	Fam134b	Zfp622	Fam134b	726, 161
+chr9	56860469	56894335	7_Myog_60hr_MT_peak_40456_lociStitched	Cspg4	Imp3,Snx33,Odf3l1	Cspg4	728
+chr1	160520729	160531691	2_Myog_60hr_MT_peak_2132_lociStitched, 2_MyoD_2d_MT_peak_925_lociStitched	Rabgap1l	Gpr52	Gpr52	730, 391
+chr7	100911935	100960689	8_Myog_60hr_MT_peak_36126_lociStitched	Arhgef17,P2ry6	Relt,Mir3102	Arhgef17	749
+chr1	182520218	182528270	3_Myog_60hr_MT_peak_2550_lociStitched, 2_MyoD_2d_MT_peak_1101_lociStitched		Capn8,Capn2	Capn2	751, 518
+chr19	25426480	25440081	7_Myog_60hr_MT_peak_21004_lociStitched	Kank1		Dmrt1	753
+chr12	112937870	112961715	6_Myog_60hr_MT_peak_10110_lociStitched	Nudt14,Brf1	Btbd6,Jag2	Nudt14	755
+chr12	73402279	73417620	7_Myog_60hr_MT_peak_9111_lociStitched	D830013O20Rik		D830013O20Rik	759
+chr17	29330712	29342253	6_Myog_60hr_MT_peak_17850_lociStitched, 5_MyoD_2d_MT_peak_6906_lociStitched	Mtch1	Pi16,Fgd2	Mtch1	761, 413
+chr9	108104773	108137946	7_Myog_60hr_MT_peak_41506_lociStitched	Bsn	Apeh,Mst1,Rnf123	Apeh	763
+chr17	10378443	10391188	6_Myog_60hr_MT_peak_17210_lociStitched, 2_MyoD_2d_MT_peak_6742_lociStitched			1700110C19Rik	768, 471
+chr1	186582312	186587413	4_Myog_60hr_MT_peak_2657_lociStitched, 2_Pbx1mt_peak_1410_lociStitched			Tgfb2	769, 508
+chr14	20651107	20664757	5_Myog_60hr_MT_peak_12020_lociStitched	Myoz1,Synpo2l	Sec24c,Fut11,Chchd1,6230400D17Rik,Usp54,Zswim8	Myoz1	771
+chr5	32061948	32081095	5_Myog_60hr_MT_peak_30106_lociStitched	Bre		Fosl2	775
+chr7	16940281	16956742	6_Myog_60hr_MT_peak_34498_lociStitched, 5_MyoD_2d_MT_peak_13049_lociStitched	Pnmal2	Calm3,Pnmal1,Ptgir,Gng8,Ccdc8	Pnmal2	782, 420
+chr11	94221431	94246595	8_Myog_60hr_MT_peak_6997_lociStitched	Wfikkn2	Tob1	Wfikkn2	784
+chr12	85969597	85974385	5_Myog_60hr_MT_peak_9489_lociStitched	Ttll5		Tgfb3	785
+chr2	157058793	157073894	8_Myog_60hr_MT_peak_24329_lociStitched	9830001H06Rik	Tldc2	9830001H06Rik	787
+chr18	75650589	75692243	10_Myog_60hr_MT_peak_20180_lociStitched	Ctif		Ctif	789
+chr8	11684631	11722061	11_Myog_60hr_MT_peak_37411_lociStitched	Gm6524	Arhgef7,Ankrd10,1700016D06Rik	Gm6524	790
+chr7	101083703	101101647	6_Myog_60hr_MT_peak_36142_lociStitched		Fchsd2	Fchsd2	794
+chr9	105374459	105377878	3_Myog_60hr_MT_peak_41404_lociStitched	Nek11	Aste1	Nek11	802
+chr11	114807123	114844734	11_Myog_60hr_MT_peak_7857_lociStitched		Gpr142,Gprc5c,Btbd17,Cd300a,Kif19a	Gprc5c	805
+chr16	31597260	31607015	4_Myog_60hr_MT_peak_16281_lociStitched			Dlg1	808
+chr17	31888599	31897752	4_Myog_60hr_MT_peak_17973_lociStitched		Sik1	Sik1	810
+chr8	79196586	79210334	3_Myog_60hr_MT_peak_38273_lociStitched, 3_MyoD_2d_MT_peak_14241_lociStitched		1700011L22Rik	1700011L22Rik	816, 514
+chr4	45489682	45493399	2_Myog_60hr_MT_peak_27341_lociStitched	Shb		Shb	819
+chr18	36408821	36416807	4_Myog_60hr_MT_peak_19564_lociStitched, 3_MyoD_2d_MT_peak_7521_lociStitched	Pfdn1		Pfdn1	820, 575
+chr1	135923349	135949180	9_Myog_60hr_MT_peak_1838_lociStitched, 3_MyoD_2d_MT_peak_785_lociStitched		Pkp1	Pkp1	821, 607
+chr6	120978166	120995913	4_Myog_60hr_MT_peak_33866_lociStitched	Mical3		Bid	823
+chr7	19928781	19940143	7_Myog_60hr_MT_peak_34619_lociStitched	Igsf23	Ceacam20,Ceacam19,Pvr	Pvr	824
+chr3	101494011	101514024	9_Myog_60hr_MT_peak_26197_lociStitched			Atp1a1	827
+chr11	29774327	29794555	5_Myog_60hr_MT_peak_5417_lociStitched	Eml6	4931440F15Rik	4931440F15Rik	828
+chr12	100391819	100399547	3_Myog_60hr_MT_peak_9674_lociStitched, 3_MyoD_2d_MT_peak_3753_lociStitched	Ttc7b		Gm10432	834, 608
+chr19	40368535	40394764	5_Myog_60hr_MT_peak_21173_lociStitched	Sorbs1		Sorbs1	837
+chr11	107728636	107731868	3_Myog_60hr_MT_peak_7726_lociStitched, 2_MyoD_2d_MT_peak_2995_lociStitched		Cacng1	Cacng1	838, 458
+chr6	121033345	121068708	11_Myog_60hr_MT_peak_33871_lociStitched	Mical3		Mical3	845
+chr16	24156713	24179057	8_Myog_60hr_MT_peak_16119_lociStitched			Bcl6	846
+chr6	120170192	120191238	4_Myog_60hr_MT_peak_33829_lociStitched	Ninj2		Ninj2	855
+chr7	112228897	112245030	5_Myog_60hr_MT_peak_36362_lociStitched	Mical2		Mical2	865
+chr17	45911236	45948618	10_Myog_60hr_MT_peak_18274_lociStitched			Vegfa	866
+chr1	59405418	59434324	8_Myog_60hr_MT_peak_534_lociStitched		Fzd7	Fzd7	867
+chr1	59405418	59434324	8_Myog_60hr_MT_peak_534_lociStitched		Fzd7	Fzd7	867
+chr3	95988990	96001262	4_Myog_60hr_MT_peak_26028_lociStitched	Plekho1,Vps45	Gm9054	Plekho1	868
+chr12	80877188	80887339	6_Myog_60hr_MT_peak_9307_lociStitched	4933426M11Rik	1700052I22Rik	1700052I22Rik	871
+chr2	28195785	28246664	7_Myog_60hr_MT_peak_22158_lociStitched, 6_MyoD_2d_MT_peak_8480_lociStitched	Olfm1		Olfm1	872, 195
+chr11	77442234	77447002	3_Myog_60hr_MT_peak_6535_lociStitched	Ssh2	Coro6,Ankrd13b,Git1	Coro6	874
+chr16	94348848	94362321	5_Myog_60hr_MT_peak_16871_lociStitched, 3_MyoD_2d_MT_peak_6588_lociStitched	Pigp	Ttc3,Pigp,Ripply3	Pigp	876, 561
+chr7	66580624	66591967	2_Myog_60hr_MT_peak_35479_lociStitched			Asb7	878
+chr9	94567788	94582663	3_Myog_60hr_MT_peak_41224_lociStitched		1190002N15Rik	1190002N15Rik	885
+chr15	99249032	99255701	3_Myog_60hr_MT_peak_15367_lociStitched	Mcrs1,1700120C14Rik	Prpf40b,Fam186b,Mcrs1,Kcnh3	Mcrs1	888
+chr11	3900386	3911190	4_Myog_60hr_MT_peak_5059_lociStitched	Slc35e4,Dusp18	4921536K21Rik,Tcn2,Osbp2	Slc35e4	891
+chr13	110903363	110914032	2_Myog_60hr_MT_peak_11799_lociStitched, 2_MyoD_2d_MT_peak_4645_lociStitched			3110015C05Rik	892, 209
+chr15	38205345	38214591	3_Myog_60hr_MT_peak_13735_lociStitched		Odf1	Odf1	894
+chr5	135488780	135531724	9_Myog_60hr_MT_peak_31740_lociStitched	Hip1	Ccl26,Ccl24	Hip1	899
+chr19	55747307	55781842	7_Myog_60hr_MT_peak_21596_lociStitched	Tcf7l2	4930552P12Rik,Tcf7l2	Tcf7l2	900
+chr9	49654771	49673062	3_Myog_60hr_MT_peak_40326_lociStitched	Ncam1		Ncam1	907
+chr18	57245276	57283237	5_Myog_60hr_MT_peak_19790_lociStitched, 5_MyoD_2d_MT_peak_7635_lociStitched	Megf10		Prrc1	908, 321
+chr19	4090595	4094661	2_Myog_60hr_MT_peak_20425_lociStitched		Cabp2,Aip,Cdk2ap2,Pitpnm1,Gpr152,Cabp4,Gstp2,BC021614,Tmem134	Cdk2ap2	911
+chr3	21952752	21970683	2_Myog_60hr_MT_peak_25128_lociStitched, 3_Pbx1mt_peak_9998_lociStitched			Tbl1xr1	916, 482
+chr2	29623412	29633320	3_Myog_60hr_MT_peak_22225_lociStitched	Rapgef1		Rapgef1	919
+chr5	110607659	110629854	12_Myog_60hr_MT_peak_31030_lociStitched, 5_MyoD_2d_MT_peak_11812_lociStitched	Galnt9	Ddx51,Noc4l	Galnt9	925, 633
+chr11	50252665	50270210	6_Myog_60hr_MT_peak_5627_lociStitched	Maml1	Mgat4b,Sqstm1,Ltc4s	Ltc4s	929
+chr12	31964199	31973729	3_Myog_60hr_MT_peak_8786_lociStitched, 3_MyoD_2d_MT_peak_3367_lociStitched	Prkar2b	Hbp1	Hbp1	930, 613
+chr19	7066539	7179499	36_Myog_60hr_MT_peak_20686_lociStitched	Flrt1,Macrod1	Cox8a,Stip1,Otub1,Fermt3	Flrt1	932
+chr19	7066539	7179499	36_Myog_60hr_MT_peak_20686_lociStitched	Flrt1,Macrod1	Cox8a,Stip1,Otub1,Fermt3	Flrt1	932
+chr16	93792763	93819524	7_Myog_60hr_MT_peak_16840_lociStitched	Dopey2	Morc3	Morc3	935
+chr1	89509295	89522187	7_Myog_60hr_MT_peak_1083_lociStitched, 5_MyoD_2d_MT_peak_472_lociStitched	Agap1		Agap1	941, 553
+chr4	45259315	45275988	4_Myog_60hr_MT_peak_27316_lociStitched, 2_Pbx1mt_peak_11221_lociStitched	Frmpd1	2900093L17Rik,Trmt10b,Exosc3	2900093L17Rik	942, 623
+chr11	75561248	75573325	4_Myog_60hr_MT_peak_6446_lociStitched	Slc43a2	Scarf1,Mir3971,Slc43a2,Pitpna	Mir3971	945
+chr2	167074800	167080102	5_Myog_60hr_MT_peak_24634_lociStitched		Snord12,1500012F01Rik,Znfx1	Snord12	946
+chr14	74868382	74884561	8_Myog_60hr_MT_peak_12988_lociStitched	Lrch1		Lrch1	947
+chr7	63896372	63925238	12_Myog_60hr_MT_peak_35380_lociStitched	Klf13,E030018B13Rik		E030018B13Rik	949
+chr19	53649013	53670855	10_Myog_60hr_MT_peak_21534_lociStitched		Rbm20,Smc3	Rbm20	950
+chr6	116636937	116644515	2_Myog_60hr_MT_peak_33775_lociStitched	Rassf4	Zfp422,8430408G22Rik	8430408G22Rik	953
+chr11	99124848	99148119	9_Myog_60hr_MT_peak_7260_lociStitched	Ccr7	Tns4	Ccr7	955
+chr3	102095496	102112507	6_Myog_60hr_MT_peak_26234_lociStitched	Casq2		Casq2	964
+chr4	134041627	134062243	4_Myog_60hr_MT_peak_28799_lociStitched		Dhdds,Lin28a,Cd52,Ubxn11,Aim1l	Aim1l	965
+chr5	35901524	35922321	8_Myog_60hr_MT_peak_30267_lociStitched	Afap1		Afap1	966
+chr13	46611093	46629722	5_Myog_60hr_MT_peak_10786_lociStitched, 4_MyoD_2d_MT_peak_4206_lociStitched	Cap2	C78339	C78339	979, 545
+chr10	40069308	40084669	4_Myog_60hr_MT_peak_3286_lociStitched	Slc16a10	AI317395	AI317395	981
+chr6	87868911	87882486	5_Myog_60hr_MT_peak_33189_lociStitched		Copg1,Cnbp,Isy1,8430410A17Rik	Copg1	986
+chr5	31950620	31968587	5_Myog_60hr_MT_peak_30099_lociStitched	Bre		Fosl2	995
+chr15	83343243	83346409	5_Myog_60hr_MT_peak_14881_lociStitched	Arfgap3	1700001L05Rik	Arfgap3	996
+chr1	191216069	191225012	3_Myog_60hr_MT_peak_2750_lociStitched		Atf3	Atf3	1002
+chr16	45796771	45810515	3_Myog_60hr_MT_peak_16528_lociStitched, 3_MyoD_2d_MT_peak_6414_lociStitched	Phldb2		Phldb2	1005, 558
+chr1	20620703	20635178	4_Myog_60hr_MT_peak_100_lociStitched, 4_Pbx1mt_peak_86_lociStitched		Mir133b,Mir206,Pkhd1	Pkhd1	1008, 603
+chr2	91942230	91959198	6_Myog_60hr_MT_peak_23256_lociStitched	Dgkz	Mdk,Chrm4	Dgkz	1010

@@ -1,0 +1,29 @@
+#Snai1_GM Enhancers
+#Created from DYSE_OUT_1906232025_2/ROSE_OUTPUT/Snai1_GM/Snai1_GM_12KB_STITCHED_TSS_DISTAL_ENHANCER_REGION_MAP.txt
+#Ranked by myobH3K27ac.bam
+#Using cutoff of 54.6874 for Super-Enhancers
+#Created on Jun 23 2019 
+REGION_ID	CHROM	START	STOP	NUM_LOCI	CONSTITUENT_SIZE	myobH3K27ac.bam	Input_MB.bam	enhancerRank	isSuper
+1_Snai1_GM.nodup_peak_1187_lociStitched	chr4	64497854	64497992	1	139	28334.436	19976.5488	1	1
+1_Snai1_GM.nodup_peak_1657_lociStitched	chr9	24541981	24542170	1	190	39485.5776	33641.4897	2	1
+2_Snai1_GM.nodup_peak_1393_lociStitched	chr6	47743997	47748571	2	208	4900.5836	1947.1518	3	1
+1_Snai1_GM.nodup_peak_562_lociStitched	chr14	75835062	75835293	1	232	2266.4565	47.3088	4	1
+2_Snai1_GM.nodup_peak_1685_lociStitched	chr9	65196472	65201806	2	469	2247.2142	530.1996	5	1
+2_Snai1_GM.nodup_peak_619_lociStitched	chr15	8805156	8815548	2	174	2960.6808	1576.4664	6	1
+1_Snai1_GM.nodup_peak_1538_lociStitched	chr8	20550493	20550617	1	125	1223.3468	20.2616	7	1
+2_Snai1_GM.nodup_peak_33_lociStitched	chr1	20670056	20672723	2	192	933.1833	321.1068	8	1
+2_Snai1_GM.nodup_peak_561_lociStitched	chr14	74852933	74864306	2	174	1729.8333	1236.2451	9	1
+1_Snai1_GM.nodup_peak_1232_lociStitched	chr4	133814014	133814113	1	100	234.1449	5.8806	10	1
+1_Snai1_GM.nodup_peak_930_lociStitched	chr2	30693404	30693502	1	99	218.932	0.2548	11	1
+2_Snai1_GM.nodup_peak_521_lociStitched	chr14	47638753	47648153	2	174	833.78	672.1	12	1
+1_Snai1_GM.nodup_peak_1764_lociStitched	chrX	75734752	75734838	1	87	155.3934	5.5556	13	1
+1_Snai1_GM.nodup_peak_1351_lociStitched	chr5	145280466	145280552	1	87	149.4594	4.3258	14	1
+1_Snai1_GM.nodup_peak_764_lociStitched	chr17	29457957	29458047	1	91	147.843	11.556	15	1
+1_Snai1_GM.nodup_peak_147_lociStitched	chr1	182520553	182520670	1	118	139.698	13.5486	16	1
+1_Snai1_GM.nodup_peak_773_lociStitched	chr17	46858513	46858606	1	94	114.3993	0.8649	17	1
+1_Snai1_GM.nodup_peak_856_lociStitched	chr18	69593265	69593351	1	87	98.2292	9.1934	18	1
+1_Snai1_GM.nodup_peak_214_lociStitched	chr10	93403008	93403106	1	99	86.1518	16.9638	19	1
+1_Snai1_GM.nodup_peak_237_lociStitched	chr11	3103937	3104038	1	102	644.4002	575.5182	20	1
+1_Snai1_GM.nodup_peak_374_lociStitched	chr12	84812644	84812772	1	129	88.7808	19.9936	21	1
+1_Snai1_GM.nodup_peak_610_lociStitched	chr14	121112315	121112404	1	90	79.0854	10.6355	22	1
+1_Snai1_GM.nodup_peak_1548_lociStitched	chr8	44867894	44868136	1	243	82.5704	17.0852	23	1

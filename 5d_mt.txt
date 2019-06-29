@@ -1,0 +1,3 @@
+DYSE_OUT_1906232025_2/ROSE_OUTPUT/Myf6_5d/Myf6_5d_Gateway_SuperEnhancers.bed
+DYSE_OUT_1906232025_2/ROSE_OUTPUT/Mef2Da2_5d_peaks/Mef2Da2_5d_peaks_Gateway_SuperEnhancers.bed
+DYSE_OUT_1906232025_2/ROSE_OUTPUT/Tead4mt_peaks/Tead4mt_peaks_Gateway_SuperEnhancers.bed

@@ -1,0 +1,12 @@
+#Tead4mt_peaks Enhancers
+#Created from DYSE_OUT_1906232025_2/ROSE_OUTPUT/Tead4mt_peaks/Tead4mt_peaks_12KB_STITCHED_TSS_DISTAL_ENHANCER_REGION_MAP.txt
+#Ranked by X4d_myotH3K27ac.bam
+#Using cutoff of 573.87 for Super-Enhancers
+#Created on Jun 23 2019 
+REGION_ID	CHROM	START	STOP	NUM_LOCI	CONSTITUENT_SIZE	X4d_myotH3K27ac.bam	Input_MT_5d.bam	enhancerRank	isSuper
+2_Tead4mt_peak_207_lociStitched	chr2	60627503	60639914	2	552	9422.4312	2468.5479	1	1
+2_Tead4mt_peak_141_lociStitched	chr15	66877875	66884059	2	570	5885.9312	867.6152	2	1
+2_Tead4mt_peak_163_lociStitched	chr17	70993590	70998255	2	487	5305.5045	510.8175	3	1
+2_Tead4mt_peak_97_lociStitched	chr13	51968870	51976223	2	536	5457.3966	1028.6847	4	1
+2_Tead4mt_peak_173_lociStitched	chr18	16741012	16745360	2	497	3175.7792	707.4196	5	1
+1_Tead4mt_peak_126_lociStitched	chr15	28133347	28133846	1	500	759.0289	164.171	6	1
