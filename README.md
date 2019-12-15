@@ -1,7 +1,7 @@
 DYSE algorithm
 
-SOFTWARE AUTHORS: Basma Abdelkarim and Theodore Perkins
-CONTACT:
+SOFTWARE AUTHOR: Basma Abdelkarim
+CONTACT: basmataher94@gmail.com
 
 Developed using Python 2.7.13, SAMtools 0.1.18, BEDtools 2.26.0, R 3.5.0
 
