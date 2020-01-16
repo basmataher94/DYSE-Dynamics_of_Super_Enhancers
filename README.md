@@ -3,6 +3,15 @@ DYSE algorithm
 SOFTWARE AUTHOR: Basma Abdelkarim
 CONTACT: basmataher94@gmail.com
 
+CITATIONS:
+For ROSE:
+Warren A. Whyte, David A. Orlando, Denes Hnisz, Brian J. Abraham, Charles Y. Lin, Michael H. Kagey, Peter B. Rahl, Tong Ihn Lee and Richard A. Young Cell 153, 307-319, April 11, 2013
+
+Jakob Lovén, Heather A. Hoke, Charles Y. Lin, Ashley Lau, David A. Orlando, Christopher R. Vakoc, James E. Bradner, Tong Ihn Lee, and Richard A. Young
+Cell 153, 320-334, April 11, 2013
+
+For DYSE:
+Abdelkarim, B. 2020, 'Dynamics of Super-Enhancers Throughout Myogenesis', MSc thesis, University of Ottawa, Ottawa
 Developed using Python 2.7.13, SAMtools 0.1.18, BEDtools 2.26.0, R 3.5.0
 
 Purpose: To compare super-enhancers between different stages in a given cell lineage
